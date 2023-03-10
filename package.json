@@ -1,0 +1,25 @@
+{
+  "name": "translate-smart-gpt3",
+  "version": "1.0.0",
+  "description": "Translates all SmartComex the messages from english to spanish using GPT-3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BCJTI/translate-smart-gpt3.git"
+  },
+  "author": "Bigous",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BCJTI/translate-smart-gpt3/issues"
+  },
+  "homepage": "https://github.com/BCJTI/translate-smart-gpt3#readme",
+  "dependencies": {
+    "csv-stringify": "^6.3.0",
+    "dotenv": "^16.0.3",
+    "openai": "^3.2.1",
+    "pg": "^8.10.0"
+  }
+}
