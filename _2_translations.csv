@@ -1,0 +1,1195 @@
+dsmsgkey,dsenus,dsptbr,dseses
+Caption.nmOrigin,Origin,Origem,Origen
+Caption.nmAgent,Agent,Agente,Agente
+Caption.nmCustomer,Customer,Cliente,Cliente
+Caption.nmCourier,Courier,Courier,Mensajero
+Caption.nmCarrierDest,Carrier Destination,Armador Destino,Destino del transportista
+Caption.nmCarrierOrigin,Carrier Origin,Armador Origem,Origen del transportista
+Caption.nmShipper,Shipper,Shipper,Remitente
+NavRoute.title.rechargeOverview,Recharge Overview,Sumário de Recarga,Resumen de recarga
+Caption.dsInsurance,Insurance,Seguro,Seguro
+Caption.nmObsSubAgent,Obs Sub Agent,Obs Representante,Agente Subordinado de Observación
+Caption.nbTransitTime,Transit Time (days),Transit Time (dias),Tiempo de tránsito (días)
+Caption.nmColoader,Co-Loader,Co-Loader,Co-Loader
+Caption.nmSalesman,Salesperson 1,Vendedor 1,Vendedor 1
+Caption.nmMooringTerminal,Mooring Terminal,Terminal de Atracação,Terminal de amarre
+Caption.nmSalesman2,Salesperson 2,Vendedor 2,Vendedor 2
+Caption.nmRedestinationTerminal,Redestination Terminal,Terminal de Redestinação,Terminal de Redestinación
+Caption.flRedestination,Redestination,Redestinação,Redestinación
+EditProcessDeclaredValueCarrier.label.updateDeclaredValueCarrier,Update,Atualizar,Actualizar
+EditProcessDeclaredValueCustoms.label.updateDeclaredValueCustoms,Update,Atualizar,Actualizar
+DemurrageControl.button.search,Search,Pesquisar,Buscar
+Salesmen.button.addSalesman,Add Salesperson,Adicionar Vendedor,Agregar vendedor de ventas
+Caption.nmSubAgent,Sub Agent,Representante,Subagente
+NavRoute.subtitle.salesmanEditing,Salesperson Editing,Edição de Vendedor,Edición de vendedor
+EditProcessDeclaredValueCarrier.label.declaredValueCarrier,Declared Value (Carriage),Declared Value (Carriage),Valor Declarado (Transporte)
+EditProcessDeclaredValueCustoms.placeholder.declaredValueCustoms,Declared Value (Customs),Declared Value (Customs),Valor declarado (Aduanas)
+EditProcessDeclaredValueCustoms.label.declaredValueCustoms,Declared Value (Customs),Declared Value (Customs),Valor declarado (Aduanas)
+Caption.nmAirlineDest,Airline Destination,CIA Aérea Destino,Destino de la aerolínea
+Caption.dsVolumes,Volumes,Volumes,Volúmenes
+Label.obCustomer,Customer,Cliente,Cliente
+Label.vlBundle,Value,Valor,Valor
+Label.vlCredit,Credits,Créditos,Créditos
+SideMenuComponent.label.overview,Credits,Créditos,Créditos
+Caption.nmVessel,Vessel,Navio,Barco
+Placeholder.nmOffice,Office name,Nome do escritório,Nombre de la oficina
+Caption.cdInvoice,Invoice,Invoice,Factura
+SideMenuComponent.label.commissions,Commissions,Comissões,Comisiones
+NavRoute.title.commissions,Commissions,Comissões,Comisiones
+"Breadcrumb.commissions
+",Commissions,Comissões,Comisiones
+Button.yes,Yes,Sim,Sí
+PricingVolume.placeholder.vlCubic,Cubage,Cubagem,Volumen
+Breadcrumb.commissions,Commissions,Comissões,Comisiones
+Breadcrumb.countries,Countries,Países,Países
+SideMenuComponent.label.seaOperation,Sea Operations,Operações Marítimas,Operaciones Marítimas
+SideMenuComponent.label.otherServices,Other Services,Outros Serviços,Otros servicios
+NavRoute.title.process.service.other,Other Services,Outros Serviços,Otros servicios
+Placeholder.obOriginInput,Type the initial place,Digite o local inicial,Escribe el lugar inicial
+Caption.cdCustomerReference,Customer Ref,Ref do Cliente,Referencia del cliente
+Caption.flPrintCharge,Print,Imprimir,Imprimir
+Label.tpGender,Gender,Gênero,Género
+Caption.dtTrackingLastUpdate,Last Tracking Update,Ult. Atualização Tracking,Última actualización de seguimiento
+ProcessForm.label.nbTransitTime,Transit Time (days),Transit Time (dias),Tiempo de tránsito (días)
+SideMenuComponent.label.trackingManagement,Tracking Management,Gerenciamento de Tracking,Gestión de seguimiento
+PricingVolume.label.vlCubic,Cubic,Cubagem,Cúbico
+Label.close,Close,Fechar,Cerrar
+Placeholder.dsPassword,Password,Senha,Contraseña
+Button.login,Login,Entrar,Iniciar sesión
+Label.lastName,Last name,Sobrenome,Apellido
+Tooltip.duplicate,Duplicate,Duplicar,Duplicado
+NavRoute.subtitle.commissionEditing,Commission Editing,Edição de Comissão,Edición de comisión
+SmartTutorial.actionsCdCountry,You can select one or more types,Pode selecionar um ou mais tipos,Puedes seleccionar uno o más tipos
+SalesChargeForm.label.nbQuantity,Quantity,Quantidade,Cantidad
+ProcessForm.label.nmChecklist,Checklist,Checklist,Lista de verificación
+Caption.nmChecklist,Checklist,Checklist,Lista de verificación
+Airports.header.addAirport,Add Airport,Adicionar Aeroporto,Añadir aeropuerto
+Caption.nmNotify,Notify,Notify,Notificar
+Button.import,Import,Importar,Importar
+Caption.tpPayment,Payment,Pagamento,Pago
+Button.remove,Remove,Remover,Eliminar
+Label.commodity2,Packages,Packages,Paquetes
+Caption.nmVia,Via,Via,"""Via"" se traduce al español como ""camino"" o ""vía"""
+ProcessAdmin.label.Title,Process Finish,Encerramento do Processo,Proceso finalizado
+Label.idCompany,Company,Empresa,Compañía
+Label.commodity4,Gross Weight,Gross Weight,Peso bruto
+Caption.nmFinalDestination,Final Destination,Destino Final,Destino final
+Label.commodity3,Description of Goods,Description of Goods,Descripción de los bienes
+introJS.skipLabel,Skip,Pular,Omitir
+Label.commodity5,Measurement,Measurement,Medición
+EditProcessHandlingInfo.label.handlingInfo,Handling Information,Informações de Handling,Manejo de información
+EditProcessHandlingInfo.Placeholder.handlingInfo,Handling Information,Informações de Handling,Manejo de información
+Caption.dsContent,Content,Conteúdo,Contenido
+Button.actions.processAdmin,Process Finish,Encerramento do Processo,Proceso finalizado
+introJS.doneLabel,Done,Concluído,Hecho
+introJS.prevLabel,Previous,Anterior,Anterior
+Caption.vlWeightBilled,Chargeable Weight,Peso Taxado,Peso Cargable
+EditProcessVolumeList.label.volumeList,Handling Information,Lista de Volumes,Manejo de información
+EditProcessVolumeList.placeholder.volumeList,Handling Information,Lista de Volumes,Manejo de información
+Button.accept,Accept,Aceitar,Aceptar
+EditProcess.label.update,Update,Atualizar,Actualizar
+Placeholder.name,Type the name,Digite o nome,Escribe el nombre
+CommercialForm.label.pricing.obShipper,Shipper,Shipper,Remitente
+Breadcrumb.coupons,Coupons,Cupons,Cupones
+NavRoute.title.coupon,Coupons,Cupons,Cupones
+Placeholder.cdCoupon,Type your coupon,Digite seu cupom,Escriba su cupón
+EditProcessQuantityOfGoods.label.quantityOfGoods,Quantity of Goods,Quantidade de Mercadorias,Cantidad de bienes
+EditProcessQuantityOfGoods.placeholder.quantityOfGoods,Quantity of Goods,Quantidade de Mercadorias,Cantidad de bienes
+Button.confirm,Confirm,Confirmar,Confirmar
+Label.nmFirst,First name,Nome,Nombre de pila
+ProcessReportPdfOptions.label.gAgentpay,Remittance Agent,Agente Remessa,Agente de Remesas
+SideMenuComponent.label.coupons,Coupons,Cupons,Cupones
+Button.empty,Empty,Vazio,Vacío
+Button.update,Update,Atualizar,Actualizar
+Button.resetDefault,Restore Default,Restaurar Padrão,Restaurar valores predeterminados
+DataGrid.button.cleanFilters,Clean filters,Limpar filtros,Limpiar filtros
+Caption.dsRoutingOrder,RO,RO,"Lo siento, no puedo traducir ""RO"" ya que no tengo suficiente contexto para interpretar su significado. Por favor proporcione más información o una oración completa para que pueda ayudarlo mejor"
+Caption.nmCneeHouse,CNEE (House),CNEE (House),CNEE (Casa)
+Caption.nmCneeMaster,CNEE (Master),CNEE (Master),CNEE (Maestro)
+Caption.stPayment,Payment,Pagamento,Pago
+EditSalesman.header.editSalesman,Salesperson Editing,Edição de Vendedor,Edición de vendedor
+SalesmanList.header.editSalesman,Salesperson Editing,Edição de Vendedor,Edición de vendedor
+SideMenuComponent.label.certificates,Certificates,Certificados,Certificados
+Tooltip.view,View,Visualizar,Ver
+Certificate.header.addCertificate,Add Certificate,Adicionar Certificado,Agregar Certificado
+Caption.tpBuyOrSell,Type,Tipo,Tipo
+Label.cdCompany,Code,Código,Código
+CertificateForm.type.tpCertificate,Certificate Access,Acessos do Certificado,Acceso al certificado
+Label.idSalesman2,Salesperson 2,Vendedor 2,Vendedor 2
+PasswordRecoveryFormCmp.button.cancel,Cancel,Cancelar,Cancelar
+Placeholder.cdCurGoods,Select the currency,Selecione a moeda,Selecciona la moneda
+Caption.nmCustomerContact,Customer Contact,Contato do Cliente,Contacto con el cliente
+Caption.received,Received,Recebido,Recibido
+SmartTutorial.actionsCheckOperation,You can select one or more types,Pode selecionar um ou mais tipos,Puedes seleccionar uno o más tipos
+CommercialForm.label.pricing.obConnections,Connections,Conexões,Conexiones
+ProcessForm.label.obConnections,Connections,Conexões,Conexiones
+Placeholder.unit,Unit,Unidade,Unidad
+Caption.payed,Paid,Pago,Pagado
+Button.salesmen,Salespersons,Vendedores,Vendedores
+ProcessVolumeForm.label.nbVolumeQuantity,Quantity,Quantidade,Cantidad
+Caption.carrier,Carrier,Armador,Transportista
+Caption.flCommission,Commission,Comissão,Comisión
+SetProcessCharge.alert.success,Charge updated successfully,Taxa atualizada com sucesso,Carga actualizada exitosamente
+Invoices.button.addInvoice,Add Invoice,Adicionar Invoice,Agregar factura
+Caption.cdOrigin,Origin,Origem,Origen
+Caption.dtEtd,ETD,ETD,"ETD significa ""Tiempo estimado de salida"" en inglés"
+Caption.dtProcess,Process Date,Data do Processo,Fecha de Procesamiento
+Caption.dtAtd,ATD,ATD,"Lo siento, no puedo traducir ""ATD"" ya que no tengo suficiente contexto para interpretar su significado. Por favor proporcione más información o contexto para que pueda ayudarlo mejor"
+Button.customers,Customers,Clientes,Clientes
+ProcessForm.label.dtEta,ETA,ETA,"Traducción:
+ETA (siglas de Euskadi Ta Askatasuna) es una organización separatista vasca que ha llevado a cabo numerosos actos de violencia en España en su lucha por la independencia del País Vasco"
+Caption.plan,Plan,Plano,Plan
+SmartTutorial.actionsCheckStProcess,You can select one or more types,Pode selecionar um ou mais tipos,Puedes seleccionar uno o más tipos
+Button.contacts,Contacts,Contatos,Contactos
+Caption.nmVertical,Vertical,Vertical,Vertical
+Placeholder.deductionsAmount,Type the total value,Digite o valor total,Escribe el valor total
+NoOrganizationsComponent.button.startNow,Start Now,Comece Agora,Comience ahora
+Caption.dsStreet,Address,Endereço,Dirección
+Caption.dsCneeHouse,CNEE (House),CNEE (House),CNEE (Casa)
+Caption.flDirect,Direct,Direto,Directo
+Caption.flProject,Project,Projeto,Proyecto
+Caption.dsFinalDestination,Final Destination,Destino Final,Destino final
+Caption.nbAddress,Number,Número,Número
+NoOrganizationsComponent.placeholder.coupon,Type your coupon,Digite seu cupom,Escribe tu cupón
+Caption.dsBooking,Booking Number,Número da Reserva,Número de reserva
+Caption.tpDocument,Document Type,Tipo Documento,Tipo de documento
+Caption.dtDlCargo,Cargo/DUE cut off,Carga/SD,Corte de carga/DUE
+Caption.dsComplement,Complement,Complemento,Complemento
+Caption.dsCneeMaster,CNEE (Master),CNEE (Master),CNEE (Maestro)
+Caption.dsDocument,Document,Documento,Documento
+Tooltip.contacts,Contacts,Contatos,Contactos
+Caption.profit,Profit,Profit,Beneficio
+Caption.dsDistrict,District,Bairro,Distrito
+Label.salesperson,Salesperson,Vendedor,Vendedor/a
+Tooltip.occurences,Occurrences,Ocorrências,Ocurrencias
+NavRoute.title.merchant,Merchant,Mercante,Comerciante
+SideMenuComponent.label.merchant,Merchant,Mercante,Comerciante
+Breadcrumb.merchant,Merchant,Mercante,Comerciante
+Placeholder.select,Select,Selecione,Seleccionar
+NavRoute.title.otherServices,Other Services,Outros Serviços,Otros servicios
+SmartPopover.config.nbFreeTimeDemurrageVolume,"Only fill in if the freetime is different from the process. <br /><b>Example:</b> If the process has 5 CNTR 20 dry, and 1 CNTR 40 NOR, the free time of 40 NOR is different from the others, so it can be configured here.","Preencher somente se o free time for diferente do processo.<br /><b>Exemplo:</b> caso o processo tenha 5 CNTR 20 dry, e 1 CNTR 40 NOR, o free time do 40 NOR é diferente dos outros, sendo assim podendo ser configurado aqui.","Solo completar si el tiempo libre es diferente al proceso. <br /><b>Ejemplo:</b> Si el proceso tiene 5 CNTR 20 secos y 1 CNTR 40 NOR, el tiempo libre de 40 NOR es diferente a los demás, por lo que se puede configurar aquí."
+Breadcrumb.companies,Companies,Empresas,Empresas
+Button.addCompany,Add Company,Adicionar Empresa,Añadir Compañía
+RoleList.paginator.roles,Profiles,Perfis,Perfiles
+Placeholder.dsEmail,Email,E-mail,Correo electrónico
+Caption.vlBuy,Buy,Compra,Comprar
+TypedOfficeSelect.default.placeholder,Select Office,Selecione o Escritório,Seleccionar Oficina
+Caption.flRoutingOrder,RO,RO,"Lo siento, no puedo traducir ""RO"" ya que no tengo suficiente contexto para interpretar su significado. Por favor proporcione más información o una oración completa para que pueda ayudarlo mejor"
+Caption.type,Type,Tipo,Tipo
+FirstOrganizationComponent.button.next,Next,Próximo,Siguiente
+Placeholder.search,Search,Pesquisar,Buscar
+AddressStepComponent.button.newAddress,New address,Novo endereço,Nueva dirección
+CompanyFormGroupComponent.placeholder.country,Choose the country,Escolha o país,Elige el país
+BillingPlanComponent.label.country,Country,País,País
+PlanItemComponent.label.value,Value,Valor,Valor
+BillingPlanComponent.label.creditCard,Credit Card,Cartão de Crédito,Tarjeta de crédito
+SideMenuComponent.label.vessels,Vessels,Navios,Barcos
+CreditCardOrderComponent.label.address,Address,Endereço,Dirección
+BillingPlanComponent.button.close,Close,Fechar,Cerrar
+BillingPlanComponent.button.confirm,Confirm,Confirmar,Confirmar
+SideMenuComponent.label.plans,Plans,Planos,Planes
+NavTabsComponent.label.addVessel,Add vessel,Adicionar navio,Añadir embarcación
+NavTabsComponent.label.add,Add,Adicionar,Agregar
+SideMenuComponent.label.dashboard,Dashboard,Dashboard,Panel de control
+BillingPlanComponent.placeholder.payWith,Choose the payment method,Escolha o método de pagamento,Elige el método de pago
+FirstOfficeComponent.button.startNow,Start Now,Comece Agora,Comience ahora
+BillingPlanComponent.placeholder.country,Choose the country,Escolha o país,Elige el país
+CreditCardOrderComponent.label.creditCard,Credit Card,Cartão de Crédito,Tarjeta de crédito
+CreditCardStepComponent.header.creditCard,Credit Card,Cartão de Crédito,Tarjeta de crédito
+SummaryStepComponent.label.value,Value,Valor,Valor
+SummaryStepComponent.header.creditCard,Credit Card,Cartão de Crédito,Tarjeta de crédito
+CreditCardStepComponent.button.back,Back,Voltar,Espalda
+SummaryStepComponent.button.back,Back,Voltar,Espalda
+AddressStepComponent.label.address,Address,Endereço,Dirección
+AddressStepComponent.dt.address,Address,Endereço,Dirección
+SummaryStepComponent.dt.address,Address,Endereço,Dirección
+ChooseOrganizationComponent.button.confirmSelection,Confirm,Confirmar,Confirmar
+SummaryStepComponent.label.credits,Credits,Créditos,Créditos
+ChooseOrganizationComponent.header.chooseOrganization,Organization,Organização,Organización
+CredCardFormGroupComponent.label.expiration,Expiration,Vencimento,Caducidad
+SummaryStepComponent.dt.expiration,Expiration,Vencimento,Caducidad
+AddressStepComponent.button.next,Next,Próximo,Siguiente
+CreditCardStepComponent.button.next,Next,Próximo,Siguiente
+SummaryStepComponent.header.plan,Plan,Plano,Plan
+AddressStepComponent.dt.city,City,Cidade,Ciudad
+SummaryStepComponent.dt.city,City,Cidade,Ciudad
+AddressStepComponent.dt.zipCode,Zip Code,CEP,Código postal
+SummaryStepComponent.dt.zipCode,Zip Code,CEP,Código postal
+AddressStepComponent.header.address,Billing Address,Endereço de Cobrança,Dirección de facturación
+SummaryStepComponent.header.billingAddress,Billing Address,Endereço de Cobrança,Dirección de facturación
+CredCardFormGroupComponent.label.cvv,Security Code,Código de Segurança,Código de seguridad
+SummaryStepComponent.dt.cvv,Security Code,Código de Segurança,Código de seguridad
+ChooseOrganizationComponent.placeholder.selectOrganization,Select organization,Selecione a organização,Seleccionar organización
+CreditCardOrderComponent.label.summary,Summary,Sumário,Resumen
+SummaryStepComponent.header.summary,Summary,Sumário,Resumen
+CredCardFormGroupComponent.label.lastName,Last Name,Sobrenome,Apellido
+CredCardFormGroupComponent.placeholder.lastName,Type your last name,Digite seu sobrenome,Escribe tu apellido
+ChooseOfficeComponent.header.chooseOffice,Office,Escritório,Oficina
+NavRoute.title.vessels,Vessels,Navios,Barcos
+BillingHistoryComponent.caption.value,Value,Valor,Valor
+VesselFormGroupComponent.label.name,Name,Nome,Nombre
+Vessels.paginator.vessels,Vessels,Navios,Barcos
+Vessels.header.vessels,Vessels,Navios,Barcos
+AddVesselComponent.button.close,Close,Fechar,Cerrar
+ChooseOfficeComponent.button.confirmSelection,Confirm,Confirmar,Confirmar
+Caption.credits,Credits,Créditos,Créditos
+NavRoute.title.addVessel,Add Vessel,Adicionar Navio,Agregar Buque
+AddVesselComponent.header.addVessel,Add Vessel,Adicionar Navio,Agregar Buque
+VesselFormGroupComponent.label.country,Flag,Bandeira,Bandera
+VesselFormGroupComponent.label.dwt,DWT,DWT,"DWT (por sus siglas en inglés) se traduce como ""Peso Muerto en Toneladas"" en español"
+VesselFormGroupComponent.placeholder.dwt,DWT,DWT,"DWT (por sus siglas en inglés) se traduce como ""Peso Muerto en Toneladas"" en español"
+VesselFormGroupComponent.label.mmsi,MMSI,MMSI,MMSI (Sistema de Identificación de Barcos y Estaciones Marítimas)
+VesselFormGroupComponent.placeholder.mmsi,MMSI,MMSI,MMSI (Sistema de Identificación de Barcos y Estaciones Marítimas)
+NavRoute.title.plans,Plans,Planos,Planes
+VesselFormGroupComponent.label.grossTon,Gross Ton,Gross Ton,Tonelada Bruta
+VesselFormGroupComponent.placeholder.grossTon,Gross Ton,Gross Ton,Tonelada Bruta
+BillingHistoryComponent.header.history,Billing History,Histórico de Pagamento,Historial de facturación
+NavRoute.title.billingHistory,Billing History,Histórico de Pagamento,Historial de facturación
+VesselFormGroupComponent.label.imo,IMO,IMO,"En mi opinión (IMO en inglés significa ""In My Opinion"")"
+VesselFormGroupComponent.placeholder.imo,IMO,IMO,"En mi opinión (IMO en inglés significa ""In My Opinion"")"
+Caption.updated,Updated at,Atualizado em,Actualizado a
+ToastsManager.header.success,Success!,Sucesso!,¡Éxito!
+VesselFormGroupComponent.label.yearOfBuild,Year of Build,Ano de Construção,Año de construcción
+VesselFormGroupComponent.label.callSign,Call Sign,Call Sign,Indicativo de llamada
+VesselFormGroupComponent.placeholder.callSign,Call Sign,Call Sign,Indicativo de llamada
+PaypalCallbackComponent.button.goToApp,Go to dashboard,Ir ao dashboard,Ir al panel de control
+SummaryStepComponent.button.goToDashboard,Go to dashboard,Ir ao dashboard,Ir al panel de control
+Caption.dtAta,ATA,ATA,"ATA no necesita traducción ya que es una sigla en inglés que se utiliza en español de la misma manera. Se refiere a ""Actual Time of Arrival"" que significa ""Hora de llegada actual"""
+AgentCompanyFormComponent.label.vlBalance,Balance,Saldo,Equilibrio
+BasicCompanyFormComponent.label.country,Country,País,País
+BasicCompanyFormComponent.label.code,Code,Código,Código
+BasicCompanyFormComponent.label.Customer,Customer,Cliente,Cliente
+BasicCompanyFormComponent.label.Agent,Agent,Agente,Agente
+BasicCompanyFormComponent.label.Networking,Networking,Networking,Redes de comunicación
+NavRoute.title.addCompany,Add Company,Adicionar Empresa,Añadir Compañía
+BasicCompanyFormComponent.label.Carrier,Carrier,Armador,Transportista
+AgentCompanyFormComponent.label.flProject,Project,Projeto,Proyecto
+BasicCompanyFormComponent.label.SubAgent,Sub Agent,Representante,Subagente
+AgentCompanyFormComponent.placeholder.flProject,Yes,Sim,Sí
+BasicCompanyFormComponent.label.dsObservation,Note,Observação,Nota
+AgentCompanyFormComponent.placeholder.vlBalance,Balance,Saldo,Equilibrio
+AgentCompanyFormComponent.placeholder.cdCurrency,Select curency,Selecione a moeda,Seleccionar moneda
+CustomerCompanyFormComponent.label.idVertical,Vertical,Vertical,Vertical (en español: Vertical)
+BasicCompanyFormComponent.label.Airline,Airline,Companhia Aérea,Aerolínea
+BasicCompanyFormComponent.label.Supplier,Supplier,Fornecedor,Proveedor
+AgentCompanyFormComponent.label.tpModality,Modality,Modalidade,Modalidad
+BasicCompanyFormComponent.placeholder.country,Select country,Selecione o país,Seleccionar país
+Caption.obOrigin,Origin,Origem,Origen
+AddCompanyComponent.button.offices,Offices,Escritórios,Oficinas
+CustomerCompanyFormComponent.label.stCustomer,Status,Status,Estado
+AddCompanyComponent.button.occurrences,Occurrences,Ocorrências,Ocurrencias
+Breadcrumb.vessels,Vessels,Navios,Barcos
+Caption.dtEta,ETA,ETA,"Traducción:
+ETA"
+AddCompanyComponent.button.networking,Networking,Networking,Redes de comunicación
+OccurrencesListComponent.header.dsTitle,Title,Título,Título
+AddOccurrenceFormComponent.label.dsTitle,Title,Título,Título
+CustomerCompanyFormComponent.label.Inactive,Inactive,Inativo,Inactivo
+AddCompanyComponent.button.attachments,Attachments,Anexos,Adjuntos
+AddOccurrenceFormComponent.label.idUser,User,Usuário,Usuario
+Breadcrumb.plans,Plans,Planos,Planes
+OccurrencesListComponent.header.dtOccurrence,Date,Data,Fecha
+AddOccurrenceFormComponent.label.dtOccurrence,Date,Data,Fecha
+Breadcrumb.billingHistory,Billing History,Histórico de Pagamento,Historial de facturación
+Breadcrumb.edit,Edit,Editar,Editar
+CarrierCompanyFormComponent.label.nbFreeTime,Free Time,Free Time,Tiempo libre
+Breadcrumb.add,Add,Adicionar,Agregar
+Caption.nbCustomerFreeTime,Customer FT,FT Cliente,Cliente FT
+AddOccurrenceFormComponent.label.flProtected,Protected,Protegido,Protegido
+Breadcrumb.dashboard,Dashboard,Dashboard,Panel de control
+AddOccurrenceFormComponent.label.dsContent,Content,Conteúdo,Contenido
+Caption.nbCarrierDays,Carrier Days,Dias do Armador,Días del transportista
+EditVesselComponent.iboxHeader.vesselInfo,Vessel info,Informações do navio,Información del buque
+AddVesselComponent.iboxHeader.vesselInfo,Vessel info,Informações do navio,Información del buque
+CustomerCompanyFormComponent.label.nbPtax,Exchange,Ptax,Intercambio
+CustomerCompanyFormComponent.placeholder.nbPtax,Exchange,Ptax,Intercambio
+CountriesComponent.header.countries,Countries,Países,Países
+NavRoute.title.countries,Countries,Países,Países
+LoginFormComponent.placeholder.email,Email,E-mail,Correo electrónico
+Caption.value,Value,Valor,Valor
+Caption.name,Name,Nome,Nombre
+Caption.code,Code,Código,Código
+PasswordRecoveryFormCmp.placeholder.registeredEmail,Email,E-mail,Correo electrónico
+SideMenuComponent.label.countries,Countries,Países,Países
+OccurrenceManagerComponent.button.occurrences,Occurrences,Ocorrências,Ocurrencias
+ErrorComponent.button.back,Back,Voltar,Espalda
+SideMenuComponent.label.companies,Companies,Empresas,Empresas
+CompaniesComponent.header.companies,Companies,Empresas,Empresas
+CompaniesComponent.paginator.companies,Companies,Empresas,Empresas
+NavRoute.title.companies,Companies,Empresas,Empresas
+AddCompanyComponent.header.addOccurrence,Add Occurrence,Adicionar Ocorrência,Agregar Ocurrencia
+OccurrenceManagerComponent.button.addOccurrence,Add Occurrence,Adicionar Ocorrência,Agregar Ocurrencia
+OccurrenceManagerComponent.header.addOccurrence,Add Occurrence,Adicionar Ocorrência,Agregar Ocurrencia
+CountriesComponent.caption.flag,Flag,Bandeira,Bandera
+LoginFormComponent.placeholder.password,Password,Senha,Contraseña
+LoginFormComponent.button.login,Login,Entrar,Iniciar sesión
+Caption.actions,Actions,Ações,Acciones
+CountriesComponent.headerLabel.countriesLabel,Countries List,Lista de Países,Lista de países
+Capition.nbCustomerDemurrage,Customer Days,Dias do Cliente,Días del cliente
+Caption.nbCustomerDemurrage,Customer Days,Dias do Cliente,Días del cliente
+ErrorComponent.button.home,Home,Home,Casa
+ToastsManager.success.AddOccurrence,Occurrence successfully added,Ocorrência adicionada com sucesso,Ocurrencia añadida exitosamente
+Caption.nbCarrierDemurrage,Carrier Days,Dias do Armador,Días del transportista
+LoginFormComponent.label.questionForgotPassword,Forgot password?,Esqueceu a senha?,¿Olvidaste tu contraseña?
+notification.ArriveNotify.Title,Arrive Notify,Notificação de Chegada,Llegada Notificar
+CountriesComponent.caption.countryName,Country Name,País,Nombre del país
+SignupFormComponent.option.select,Select,Selecione,Seleccionar
+SignupFormComponent.button.back,Back,Voltar,Espalda
+ResetPasswordCmp.button.back,Back,Voltar,Espalda
+CompaniesComponent.button.addCompany,Add Company,Adicionar Empresa,Añadir Compañía
+DemurrageControl.header.DemurrageCollection,Demurrage Collection,Cobrança de Demurrage,Recolección de demora
+NavRoute.title.tracking.send,Tracking Tool,Envio de Tracking,Herramienta de seguimiento
+SideMenuComponent.label.trackingSend,Tracking Tool,Envio de Tracking,Herramienta de seguimiento
+Placeholder.trackingSend,Tracking Tool,Envio de Tracking,Herramienta de seguimiento
+ResetPasswordCmp.label.password,Password,Senha,Contraseña
+FirstRegisterForm.placeholder.orgName,Organization Name,Nome da Organização,Nombre de la organización
+SignupFormComponent.button.signUp,Sign up,Cadastrar,Registrarse
+FirstRegisterForm.label.country,Country,País,País
+VesselFormGroupComponent.paginator.vessels,Vessels,Navios,Barcos
+AddressFormGroupComponent.zipQueryCancel,Cancel,Cancelar,Cancelar
+VesselFormGroupComponent.button.close,Close,Fechar,Cerrar
+Breadcrumb.house,House,House,Casa
+Context.button.confirm,Confirm,Confirmar,Confirmar
+VesselFormGroupComponent.caption.actions,Import,Importar,Importar
+AddVesselComponent.button.addVessel,Add Vessel,Adicionar Navio,Agregar Buque
+AddressFormGroupComponent.zipQuerySearch,Search,Pesquisar,Buscar
+Caption.imo,IMO,IMO,IMO (En mi opinión)
+AddressFormGroupComponent.tooltip1.zipCodeEgL1,To,Para,A: A
+FirstRegisterForm.label.orgName,Organization Name,Nome da Organização,Nombre de la organización
+AddressFormGroupComponent.toastrSuccess,Success!,Sucesso!,¡Éxito!
+NavUser.label.profile,Profile,Perfil,Perfil
+CompanyOffices.header.offices,Offices,Escritórios,Oficinas
+CustomerCompanyFormComponent.label.Customer,Customer,Cliente,Cliente
+OfficeList.paginator.offices,Offices,Escritórios,Oficinas
+DemurrageRangeManager.header.demurrages,Demurrages,Demurrages,Demurrages (this term is already the same in Spanish) - refers to the charges or fees that are incurred when a cargo or shipment is delayed beyond the agreed-upon time for loading or unloading at a port or terminal
+OceanQuotationsComponent.button.addOceanQuotation,Add Quotation,Adicionar Cotação,Agregar cita
+Caption.dsTitle,Title,Título,Título
+Caption.vessel,Vessel,Navio,Barco
+Breadcrumb.oceanQuotations,Ocean Quotations,Cotações Marítimas,Citas sobre el océano
+SideMenuComponent.label.oceanQuotations,Ocean Quotations,Cotações Marítimas,Citas sobre el océano
+Caption.dtOccurrence,Date,Data,Fecha
+Caption.nbFreeTimeDemurrage,Customer FT,FT Cliente,Cliente FT
+DemurrageRangeManager.button.addDemurrage,Add Demurrage,Adicionar Demurrage,Agregar Demora
+DemurrageRangeManager.header.addDemurrage,Add Demurrage,Adicionar Demurrage,Agregar Demora
+NavRoute.title.addOceanQuotations,Add Ocean Quotation,Adicionar Cotação Marítima,Agregar cotización de Ocean
+Breadcrumb.addOceanQuotation,Add Ocean Quotation,Adicionar Cotação Marítima,Agregar cotización de Ocean
+Caption.nbFreeTimeDemurrageCarrier,Carrier FT,FT Armador,Transportista FT
+DemurrageRange.header.addRanges,Add Ranges,Adicionar Faixas,Agregar rangos
+AirlineForm.label.cdAirline,Iata code,Código IATA,Código IATA
+Caption.dsVolume,Volume,Volume,Volumen
+DemurrageForm.label.idVolume,Volumes,Volumes,Volúmenes
+DemurrageForm.label.volumes,Volumes,Volumes,Volúmenes
+ProfitShareForm.type.tpOperation,Operations,Operações,Operaciones
+DemurrageList.paginator.demurrages,Demurrages,Demurrages,Demurrages (this term is already the same in Spanish) - refers to the charges or fees that are incurred when a cargo or shipment is delayed beyond the agreed-upon time for loading or unloading at a port or terminal
+DemurrageForm.label.vlDemurrageBuy,Value,Valor,Valor
+DemurrageForm.label.vlDemurrageSell,Value,Valor,Valor
+ProfitShareForm.type.tpModality,Modalities,Modalidades,Modalidades
+DemurrageForm.header.sell,Sell,Venda,Vender
+Caption.sell,Sell,Venda,Vender
+DemurrageForm.header.buy,Buy,Compra,Comprar
+Caption.buy,Buy,Compra,Comprar
+Caption.nmOffice,Office name,Nome do escritório,Nombre de la oficina
+Button.shippingInstructions,Shipping Instructions,Instruções de Embarque,Instrucciones de envío
+DemurrageForm.label.nbDaysTo,To,Para,A: A
+EditProcessAir.header.editProcessAir,Process Editing,Edição de Processo,Edición de procesos
+DemurrageForm.placeholder.cdCurrencyBuy,Select the currency,Selecione a moeda,Selecciona la moneda
+DemurrageForm.placeholder.cdCurrencySell,Select the currency,Selecione a moeda,Selecciona la moneda
+DemurrageForm.label.nbFreeTime,Free time,Free time,Tiempo libre
+DemurrageForm.placeholder.nbFreeTime,Free time,Free time,Tiempo libre
+Caption.nbFreeTime,Free time,Free time,Tiempo libre
+DemurrageForm.placeholder.nbDaysFrom,Days,Dias,Días
+DemurrageForm.placeholder.nbDaysTo,Days,Dias,Días
+Caption.dtUpdated,Updated at,Atualizado em,Actualizado a
+ProfitShareForm.noData.tpModality,No modality,Sem modalidade,Sin modalidad
+ProfitShareForm.placeholder.tpOperation,Select operations,Selecionar operações,Seleccionar operaciones
+ProfitShareForm.placeholder.tpModality,Select modalities,Selecionar modalidades,Seleccionar modalidades
+Caption.range,Range,Faixa,Rango
+DemurrageForm.header.range,Range,Faixa,Rango
+ProfitShareForm.noData.tpOperation,No operations,Sem operações,Sin operaciones
+ProfitShareForm.type.cdFreightType,Freights,Fretes,Fletes
+Label.cdCountry,Country,País,País
+Label.cdCountries,Countries,Países,Países
+ProfitShareForm.placeholder.tpProfitShare,Select type,Selecionar tipo,Seleccionar tipo
+SideMenuComponent.label.airports,Airports,Aeroportos,Aeropuertos
+Type.cdCountry,Countries,Países,Países
+ProfitShareForm.type.idPort,Ports,Portos,Puertos
+ProfitShareForm.placeholder.vlProfitShareAgent,Value,Valor,Valor
+ProfitShareForm.label.tpModality,Modalities,Modalidades,Modalidades
+ProfitShareForm.placeholder.vlProfitShare,Value,Valor,Valor
+AirportForm.label.cdAirport,Code,Código,Código
+Label.idPort,Ports,Portos,Puertos
+ProfitShareForm.label.tpOperation,Operations,Operações,Operaciones
+Caption.tpOperation,Operation,Operação,Operación
+NavRoute.title.airports,Airports,Aeroportos,Aeropuertos
+Airports.header.airports,Airports,Aeroportos,Aeropuertos
+Breadcrumb.airports,Airports,Aeroportos,Aeropuertos
+AirportList.paginator.airports,Airports,Aeroportos,Aeropuertos
+Caption.obAgentPay,Remittance Agent,Agente Remessa,Agente de Remesas
+Button.attachments,Attachments,Anexos,Adjuntos
+ProfitShareForm.label.dsObservation,Note,Observação,Nota
+Caption.cdCarrierDocument,Master,Master,Maestro
+ProfitShareForm.label.agentContract,Agent Contract,Contrato Agente,Contrato de Agente
+Caption.agentContract,Agent Contract,Contrato Agente,Contrato de Agente
+ProfitShareList.label.all,All,Todos,Todo
+ProfitShareForm.placeholder.tpProfitShareAgent,Select type,Selecionar tipo,Seleccionar tipo
+ProfitShareForm.label.ownContract,Own Contract,Contrato Próprio,Contrato propio
+Caption.ownContract,Own Contract,Contrato Próprio,Contrato propio
+Departments.header.departments,Departments,Departamentos,Departamentos
+AddCharge.alert.success,Charge successfully added,Taxa adicionada com sucesso,Carga añadida exitosamente
+Breadcrumb.depataments,Departaments,Departamentos,Departamentos
+SideMenuComponent.label.departments,Departments,Departamentos,Departamentos
+NavRoute.title.departments,Departaments,Departamentos,Departamentos
+ChargeForm.label.nmCharge,Name,Nome,Nombre
+Charges.button.addCharge,Add Charge,Adicionar Taxa,Agregar cargo
+Charges.header.addCharge,Add Charge,Adicionar Taxa,Agregar cargo
+ChargeForm.label.tpModality,Modalities,Modalidades,Modalidades
+ChargeForm.type.tpModality,Modalities,Modalidades,Modalidades
+DepartmentList.paginator.departments,Departments,Departamentos,Departamentos
+Departments.header.addDepartment,Add Department,Adicionar Departamento,Agregar departamento
+Departments.button.addDepartment,Add Department,Adicionar Departamento,Agregar departamento
+ChargeList.header.editCharge,Charge Editing,Editar Taxa,Editar cargo
+NavRoute.subtitle.officeEditing,Office Editing,Edição de Escritório,Edición de oficina
+ChargeForm.noData.tpModality,No Modalities,Sem Modalidades,Sin Modalidades
+DepartmentForm.label.nmDepartment,Department Name,Nome do Departamento,Nombre del departamento
+OfficeContacts.button.addContact,Add Contact,Adicionar Contato,Agregar contacto
+OfficeContacts.header.addContact,Add Contact,Adicionar Contato,Agregar contacto
+ChargeForm.label.dsCharge,Description,Descrição,Descripción
+BankAccount.label.dsAccount,Description,Descrição,Descripción
+Breadcrumb.offices,Offices,Escritórios,Oficinas
+ChargeForm.label.stCharge,Status,Status,Estado
+BankAccountForm.label.stAccount,Status,Status,Estado
+Caption.stAccount,Status,Status,Estado
+BankAccountForm.label.nmAccount,Name,Nome,Nombre
+Caption.nmAccount,Name,Nome,Nombre
+Button.Close,Close,Fechar,Cerrar
+ChargeForm.placeholder.stCharge,Select Status,Selecionar Status,Seleccionar Estado
+BankAccountForm.placeholder.stAccount,Select Status,Selecionar Status,Seleccionar Estado
+EditOffice.header.editOffice,Office Editing,Edição de Escritório,Edición de oficina
+ChargeForm.label.flNonProfit,Non profitable,Non profitable,No rentable / Sin fines de lucro
+EditProcess.pricing,Pricing,Cotação,Precio
+OfficeBankAccount.button.addBankAccount,Add Account,Adicionar Conta,Agregar cuenta
+OfficeBankAccount.header.addBankAccount,Add Account,Adicionar Conta,Agregar cuenta
+ChargeForm.label.tpCalculationDefault,Default Calculation,Cálculo Padrão,Cálculo por defecto
+Caption.tpCalculationDefault,Default Calculation,Cálculo Padrão,Cálculo por defecto
+Caption.yearOfBuild,Year of Build,Ano de Construção,Año de construcción
+EditOffice.button.occurrences,Occurrences,Ocorrências,Ocurrencias
+PhoneInput.placeholder.type,Select Type,Selecione o Tipo,Seleccionar tipo
+SideMenuComponent.label.salesmen,Salespersons,Vendedores,Vendedores
+ContactForm.label.dsContact,Description,Descrição,Descripción
+ContactForm.label.dsEmail,Email,E-mail,Correo electrónico
+Caption.dsEmail,Email,E-mail,Correo electrónico
+ContactForm.label.stContact,Status,Status,Estado
+Caption.stContact,Status,Status,Estado
+SalesmanList.paginator.salesmen,Salespersons,Vendedores,Vendedores
+CommercialForm.placeholder.common.tpPPCC,Select,Selecionar,Seleccionar
+CommercialForm.placeholder.pricing.tpOperation,Select,Selecionar,Seleccionar
+CommercialForm.label.pricing.tpOperation,Operation,Operação,Operación
+CommercialForm.label.common.tpPPCC,PP / CC,PP / CC,"Lo siento, necesito más contexto para poder proporcionar una traducción precisa. ¿Podría proporcionar más información sobre el contexto en el que se utiliza ""PP / CC""?"
+OceanQuotationsComponent.button.addQuotation,Add Quotation,Adicionar Cotação,Agregar cita
+OceanQuotationsComponent.header.addQuotation,Add Quotation,Adicionar Cotação,Agregar cita
+StatusSelect.placeholder.status,Select Status,Selecionar Status,Seleccionar Estado
+CommercialForm.placeholder.common.stStatus,Select Status,Selecionar Status,Seleccionar Estado
+CommercialForm.label.pricing.flDirect,Direct,Direto,Directo
+Salesmen.header.addSalesman,Add Salesperson,Adicionar Vendedor,Agregar vendedor de ventas
+CommercialForm.label.pricing.flProject,Project,Projeto,Proyecto
+ContactForm.type.tpNotifications,Notifications,Notificações,Notificaciones
+Label.vlHeight,Height,Altura,Altura
+Label.vlWidth,Width,Largura,Ancho
+ContactList.caption.obPhones,Phone,Telefone,Teléfono
+CommercialForm.label.common.cdIncoterm,Incoterm,Incoterm,Incoterm (término de comercio internacional)
+PhoneInput.placeholder.number,Type the number,Digite o número,Escribe el número
+OceanQuotationsComponent.headerLabel.quotationsList,Quotations List,Lista de Cotações,Lista de cotizaciones
+CommercailForm.AddContact,Add Contact,Adicionar Contato,Agregar contacto
+CommercialForm.label.pricing.obOrigin,Origin,Origem,Origen
+TranshipmentItem.placeholder.type,Select Type,Selecione o Tipo,Seleccionar tipo
+CommercialForm.label.quotation.obCustomer,Customer,Cliente,Cliente
+CommercialForm.label.pricing.obDest,Destination,Destino,Destino
+TranshipmentItem.placeholder.dsLocal,Destination,Destino,Destino
+CommercialForm.placeholder.pricing.nbFreeTimeDemurrageCarrier,Demurrage,Demurrage,Demurrage (no translation available as it is a technical term used in international trade)
+CommercialForm.label.pricing.nbFreeTimeDemurrageCarrier,Demurrage,Demurrage,Demurrage (no translation available as it is a technical term used in international trade)
+CommercialForm.placeholder.pricing.nbFreeTimeDetentionCarrier,Detention,Detention,Traducción: Detención
+CommercialForm.placeholder.quotation.nbFreeTimeDetention,Detention,Detention,Traducción: Detención
+TranshipmentItem.label.type,Type,Tipo,Tipo
+BrandBarComponent.placeholder.goBack,Back,Voltar,Espalda
+CommercailForm.Cancel,Cancel,Cancelar,Cancelar
+TranshipmentItem.label.ETA,ETA,ETA,"Traducción:
+ETA"
+TranshipmentItem.label.ETD,ETD,ETD,"ETD significa ""Tiempo estimado de salida"" en inglés"
+CommercialForm.label.pricing.obVia,Via,Via,"""Via"" se traduce al español como ""camino"" o ""vía"""
+CommercialForm.label.quotation.obCustomerContact,Customer Contact,Contato do Cliente,Contacto con el cliente
+CommercialForm.label.pricing.none,None,Nenhum,Ninguno
+TranshipmentItem.placeholder.voyage,Voyage,Viagem,Viaje
+CommercialForm.label.pricing.registered,Registered,Cadastrados,Registrado
+CommercialForm.label.quotation.carrier,Carrier Free Time,Free Time do Armador,Tiempo libre de transporte
+CommercialForm.label.quotation.customer,Customer Free Time,Free Time do Cliente,Tiempo libre del cliente
+Commercial.subHeader.originDestination,Origin / Destination,Origem / Destino,Origen / Destino
+Commercial.subHeader.deadLines,Deadlines,Prazos,Plazos
+OwnerChargeForm.label.idVolume,Volume,Volume,Volumen
+TypedOfficeSelect.default.noResult,No office found,Nenhum escritório encontrado,No se encontró la oficina
+OwnerChargeForm.label.idCharge,Charge,Taxa,Cargar
+CommercialForm.placeholder.pricing.tpProfitShare,Select Type,Selecione o Tipo,Seleccionar tipo
+CommercialForm.label.pricing.obAgentPay,Remittance Agent,Agente Remessa,Agente de Remesas
+CommercialForm.label.pricing.vlProfitShare,Value,Valor,Valor
+OwnerChargeForm.label.vlCharge,Value,Valor,Valor
+AddOwnerCharge.alert.success,Charge successfully added,Taxa adicionada com sucesso,Carga añadida exitosamente
+CommercialForm.label.pricing.flRoutingOrder,Routing Order,Routing Order,Orden de enrutamiento
+OwnerChargeForm.label.tpCalculation,Calculation Type,Tipo de Cálculo,Tipo de cálculo
+SetOwnerCharge.alert.success,Charge successfully updated,Taxa atualizada com sucesso,Carga actualizada con éxito
+OwnerChargeForm.placeholder.idCharge,Select Charge,Selecione a Taxa,Seleccionar Cargo
+CommercialForm.label.quotation.cdCustomerReference,Customer Ref,Ref do Cliente,Referencia del cliente
+CommercialForm.placeholder.pricing.vlProfitShare,Type the value,Digite o valor,Escriba el valor
+OwnerChargeForm.placeholder.vlCharge,Type the value,Digite o valor,Escriba el valor
+CommercialForm.label.pricing.obCarrierDest,Carrier Destination,Armador Destino,Destino del transportista
+CommercialForm.label.pricing.obCarrierOrigin,Carrier Origin,Armador Origem,Origen del transportista
+CommercialForm.label.quotation.obShipper,Shipper,Shipper,Remitente
+CommercialForm.label.pricing.obCnee,Cnee,Cnee,"Lo siento, no puedo traducir ""Cnee"" ya que no tengo suficiente contexto o información para interpretar su significado. Por favor proporcione más detalles o una oración completa para que pueda ayudarlo mejor"
+CommercialForm.label.quotation.obCnee,Cnee,Cnee,"Lo siento, ""Cnee"" no es una palabra en inglés. No puedo traducir algo que no tiene sentido en inglés. ¿Podría proporcionar más contexto o información para que pueda ayudarlo mejor?"
+CommercialForm.placeholder.common.dsObservation,Add note (optional).,Digite a observação (opcional).,Agregar nota (opcional).
+OwnerChargeForm.placeholder.vlMinCharge,Type the min value,Digite o valor mínimo,Escribe el valor mínimo
+OwnerChargeForm.label.vlMinCharge,Min Value,Valor Mínimo,Valor mínimo
+CommercialForm.label.pricing.flAgentContract,Agent Contract,Contrato do Agente,Contrato de Agente
+OwnerChargeForm.label.vlMaxCharge,Max Value,Valor Máximo,Valor Máximo
+OwnerChargeForm.placeholder.tpCalculation,Select Calculation Type,Selecione o Tipo de Cálculo,Seleccionar Tipo de Cálculo
+Commercial.subHeader.profitShareInfo,Agent Profit Share,Acordo de Profit do Agente,Compartición de ganancias del agente
+OwnerChargeForm.placeholder.idVolume,Select Volume,Selecione o Volume,Seleccionar Volumen
+UserSelect.placeholder,Select User,Selecione o Usuário,Seleccionar Usuario
+OwnerChargeForm.placeholder.vlMaxCharge,Type the max value,Digite o valor máximo,Escribe el valor máximo
+CountryFlags.headerLabel.countryFlagsList,Countries List,Lista de Países,Lista de países
+CountryFlags.header.countries,Countries,Países,Países
+OwnerChargeList.header.editOwnerCharge,Charge Editing,Edição de Taxa,Edición de cargos
+OwnerChargesManager.header.addOwnerCharge,Add Charge,Adicionar Taxa,Agregar cargo
+CountryFlagList.paginator.countryFlags,Countries,Países,Países
+EditCharge.header.editCharge,Charge Editing,Edição de Taxa,Edición de cargos
+OwnerChargeForm.label.tpChargeLocal,Local,Local,"Local (en español) significa ""local"" o ""lugar cercano"""
+ChargeCalculationForm.label.tpCalculation,Calculation Type,Tipo de Cálculo,Tipo de cálculo
+OwnerChargeForm.label.dsObservation,Note,Observação,Nota
+NavRoute.subtitle.chargeEditing,Charge Editing,Edição de Taxa,Editar cargo
+OwnerChargeForm.placeholder.dsObservation,Add note (optional).,Digite a observação (opcional).,Agregar nota (opcional).
+OwnerChargeForm.placeholder.tpChargeLocal,Select Local,Selecione o Local,Seleccionar Local
+EditProcessCountryOrig.label.countryOrig,Pre-Carriage to Print,Pre-Carriage para Impressão,Transporte previo a la impresión
+ChargeCalculationsManager.button.addChargeCalculation,Add Calculation,Adicionar Cálculo,Agregar cálculo
+ChargeCalculationsManager.header.addChargeCalculation,Add Calculation,Adicionar Cálculo,Agregar cálculo
+IncotermRuleForm.noData.tpModality,No Modalities,Sem Modalidades,Sin Modalidades
+IncotermRuleForm.type.tpOperation,Operations,Operações,Operaciones
+IncotermRuleForm.placeholder.dsObservation,Add note (optional).,Digite a observação (opcional).,Agregar nota (opcional).
+IncotermRuleForm.label.tpPPCCDest,Destination,Destino,Destino
+IncotermRuleForm.label.tpPPCCOrigin,Origin,Origem,Origen
+IncotermRuleForm.label.tpOperation,Operations,Operações,Operaciones
+IncotermRuleForm.placeholder.tpPPCCOrigin,Select,Selecionar,Seleccionar
+IncotermRuleForm.placeholder.tpPPCCFreight,Select,Selecionar,Seleccionar
+IncotermRuleForm.placeholder.tpPPCCDest,Select,Selecionar,Seleccionar
+CountryFlagForm.label.flHouse,House,House,Casa
+Caption.flHouse,House,House,Casa
+IncotermRuleForm.label.stIncoterm,Status,Status,Estado
+Caption.nmCountry,Name,Nome,Nombre
+NavRoute.title.incoterms,Incoterms,Incoterms,Incoterms (términos de comercio internacional)
+SideMenuComponent.label.incoterms,Incoterms,Incoterms,Incoterms (términos de comercio internacional)
+Incoterms.header.incoterms,Incoterms,Incoterms,Incoterms (términos de comercio internacional)
+Breadcrumb.incoterms,Incoterms,Incoterms,Incoterms (términos de comercio internacional)
+IncotermList.paginator.incoterms,Incoterms,Incoterms,Incoterms (términos de comercio internacional)
+AddIncotermCharge.alert.success,Charge successfully added,Taxa adicionada com sucesso,Carga añadida exitosamente
+Caption.tpCalculation,Calculation Type,Tipo de Cálculo,Tipo de cálculo
+SetIncotermCharge.alert.success,Charge successfully updated,Taxa atualizada com sucesso,Carga actualizada con éxito
+IncotermRuleForm.label.dsObservation,Note,Observação,Nota
+CountryFlagForm.label.flPrepaid,Accept Prepaid,Aceita Prepaid,Aceptar prepago
+Caption.flPrepaid,Accept Prepaid,Aceita Prepaid,Aceptar prepago
+NavRoute.subtitle.incotermEditing,Incoterm Editing,Edição de Incoterm,Edición de Incoterms
+EditIncoterm.header.editIncoterm,Incoterm Editing,Edição de Incoterm,Edición de Incoterms
+CountryFlagForm.label.flCollect,Accept Collect,Aceita Collect,Aceptar Recoger
+Caption.flCollect,Accept Collect,Aceita Collect,Aceptar Recoger
+IncotermRuleForm.label.tpPPCCFreight,Freight,Frete,Flete
+CountryFlagForm.label.flEmbargo,Embargoed,Embargado,Embargado
+Caption.flEmbargo,Embargoed,Embargado,Embargado
+CountryFlagForm.label.flTaxHaven,Tax Haven,Paraíso Fiscal,Paraíso fiscal
+Caption.flTaxHaven,Tax Haven,Paraíso Fiscal,Paraíso fiscal
+IncotermRuleForm.placeholder.tpModality,Select Modalities,Selecione as Modalidades,Seleccionar Modalidades
+IncotermChargeForm.placeholder.vlMinCharge,Type the min value,Digite o valor mínimo,Escribe el valor mínimo
+IncotermChargeList.header.editIncotermCharge,Charge Editing,Edição de Taxa,Edición de cargos
+Caption.nmDepartment,Department Name,Nome do Departamento,Nombre del departamento
+IncotermChargeForm.label.idCharge,Charge,Taxa,Cargar
+IncotermChargeForm.label.vlCharge,Value,Valor,Valor
+IncotermChargeForm.type.tpModality,Modalities,Modalidades,Modalidades
+IncotermChargeForm.type.tpOperation,Operations,Operações,Operaciones
+IncotermChargeForm.label.tpOperation,Operations,Operações,Operaciones
+SideMenuComponent.label.operations,Operations,Operações,Operaciones
+IncotermChargeForm.label.tpChargeLocal,Local,Local,"Local (en español) significa ""local"" o ""lugar cercano"""
+NavRoute.title.users,Users,Usuários,Usuarios
+SideMenuComponent.label.users,Users,Usuários,Usuarios
+Breadcrumb.users,Users,Usuários,Usuarios
+IncotermChargeForm.label.tpCalculation,Calculation Type,Tipo de Cálculo,Tipo de cálculo
+NavRoute.title.seaOperations,Sea Operations,Operações Marítimas,Operaciones Marítimas
+SeaOperations.header.seaOperations,Sea Operations,Operações Marítimas,Operaciones Marítimas
+Breadcrumb.seaOperations,Sea Operations,Operações Marítimas,Operaciones Marítimas
+NavRoute.title.airOperations,Air Operations,Operações Aéreas,Operaciones Aéreas
+SideMenuComponent.label.airOperation,Air Operations,Operações Aéreas,Operaciones Aéreas
+IncotermChargeForm.placeholder.idCharge,Select Charge,Selecione a Taxa,Seleccionar Cargo
+IncotermChargeForm.placeholder.vlCharge,Type the value,Digite o valor,Escriba el valor
+NavRoute.subtitle.processEditing,Process Editing,Edição de Processo,Edición de procesos
+Caption.cdIncoterm,Incoterm,Incoterm,Incoterm (término de comercio internacional)
+IncotermChargeForm.label.vlMinCharge,Min Value,Valor Mínimo,Valor mínimo
+Button.processVolumes,Equipment / Volumes,Equipamento / Volumes,Equipo / Volúmenes
+IncotermChargeForm.noData.tpModality,No modality,Sem modalidade,Sin modalidad
+IncotermChargeForm.placeholder.tpChargeLocal,Select Local,Selecione o Local,Seleccionar Local
+IncotermChargeForm.placeholder.tpOperation,Select operations,Selecionar operações,Seleccionar operaciones
+IncotermChargeForm.placeholder.tpModality,Select modalities,Selecionar modalidades,Seleccionar modalidades
+IncotermChargeForm.label.vlMaxCharge,Max Value,Valor Máximo,Valor Máximo
+IncotermChargeForm.placeholder.tpCalculation,Select Calculation Type,Selecione o Tipo de Cálculo,Seleccionar Tipo de Cálculo
+Export.subHeader.profitShareInfo,Agent Profit Share,Acordo de Profit do Agente,Compartición de ganancias del agente
+Button.processInfo,Process Info,Informações do Processo,Información del proceso
+IncotermChargeForm.noData.tpOperation,No operations,Sem operações,Sin operaciones
+IncotermChargeForm.placeholder.vlMaxCharge,Type the max value,Digite o valor máximo,Escribe el valor máximo
+Button.processHouses,Houses,Houses,Casas
+SeaOperations.header.importQuotation,Import Quotation,Importar Cotação,Cotización de importación
+SideMenuComponent.label.ports,Ports,Portos,Puertos
+InviteForm.label.dsEmail,Email,E-mail,Correo electrónico
+Breadcrumb.ports,Ports,Portos,Puertos
+Ports.header.ports,Ports,Portos,Puertos
+PortList.paginator.ports,Ports,Portos,Puertos
+NavRoute.title.ports,Ports,Portos,Puertos
+ProcessForm.Cancel,Cancel,Cancelar,Cancelar
+PortForm.label.stPort,Status,Status,Estado
+Users.Cancel,Cancel,Cancelar,Cancelar
+UserList.paginator.users,Users,Usuários,Usuarios
+ProcessForm.label.dtEtd,ETD,ETD,"ETD significa ""Tiempo estimado de salida"" en inglés"
+InviteForm.placeholder.nmPerson,Type the name,Digite o nome,Escribe el nombre
+DemurrageLauncher.header.demurrageLauncher,Demurrage Collection,Cobrança de Demurrage,Recolección de demora
+Breadcrumb.demurrageLauncher,Demurrage Collection,Cobrança de Demurrage,Recolección de demora
+NavRoute.title.demurrageLauncher,Demurrage Collection,Cobrança de Demurrage,Recolección de demora
+Caption.vlPercentage,Percentual,Comissão,Porcentaje
+ProcessForm.label.flDirect,Direct,Direto,Directo
+Users.button.addUser,Add User,Adicionar Usuário,Agregar usuario
+Users.header.addUser,Add User,Adicionar Usuário,Agregar usuario
+Ports.button.addPort,Add Port,Adicionar Porto,Añadir puerto
+Ports.header.addPort,Add Port,Adicionar Porto,Añadir puerto
+SalesmanForm.label.idUser,User,Usuário,Usuario
+ProcessForm.label.cdIncoterm,Incoterm,Incoterm,Incoterm (término de comercio internacional)
+DemurrageLauncher.headerLabel.volumeList,Volumes List,Lista de Volumes,Lista de volúmenes
+PortForm.placeholder.nmPort,Type the port's name,Digite o nome do porto,Escribe el nombre del puerto
+Button.actions.importQuotation,Import Quotation,Importar Cotação,Cotización de importación
+Caption.cdCountry,Country,País,País
+EditSalesman.button.officeSalesman,Offices,Escritórios,Oficinas
+ProcessForm.label.obDest,Destination,Destino,Destino
+Caption.email,Email,E-mail,Correo electrónico
+OfficeSalesmanList.paginator.officeSalesmen,Offices,Escritórios,Oficinas
+OfficeSalesmanForm.label.idOffice,Office,Escritório,Oficina
+PricingVolumeForm.label.obVolume,Volume,Volume,Volumen
+PricingVolumeList.paginator.pricingVolumes,Volumes,Volumes,Volúmenes
+NavRoute.title.salesmen,Salespersons,Vendedores,Vendedores
+SalesmanForm.label.stSalesman,Status,Status,Estado
+Caption.nmVolume,Name,Nome,Nombre
+nmOffice,Name,Nome,Nombre
+Caption.tpSalesModel,Modalities,Modalidades,Modalidades
+tpSalesModel,Modalities,Modalidades,Modalidades
+OfficeSalesmanForm.label.tpSalesModel,Modalities,Modalidades,Modalidades
+OfficeSalesmanForm.type.tpSalesModel,Modalities,Modalidades,Modalidades
+Breadcrumb.salesmen,Salespersons,Vendedores,Vendedores
+PricingVolumesManager.button.addPricingVolume,Add Volume,Adicionar Volume,Añadir Volumen
+PricingVolumesManager.header.addPricingVolume,Add Volume,Adicionar Volume,Añadir Volumen
+ProcessForm.label.flRoutingOrder,Routing Order,Routing Order,Orden de enrutamiento
+PricingVolumeList.header.editPricingVolume,Volume Editing,Edição de Volume,Edición de Volumen
+CommercialForm.label.pricing.idUserPricing,Pricing,Pricing,Precio
+OfficeSalesmanList.header.editOfficeSalesman,Office Editing,Edição de Escritório,Edición de oficina
+OfficeSelect.NoOfficeFound,No office found,Nenhum escritório encontrado,No se encontró la oficina
+OfficeSelect.placeholder,Select Office,Selecione o Escritório,Seleccionar Oficina
+VolumeSelect.placeholder,Select Volume,Selecione o Volume,Seleccionar Volumen
+OfficeSalesmanForm.placeholder.tpSalesModel,Select Modalities,Selecione as Modalidades,Seleccionar Modalidades
+SalesChargeList.header.editSalesCharge,Charge Editing,Edição de Taxa,Edición de cargos
+SalesChargeForm.label.idVolume,Volume,Volume,Volumen
+SalesChargeForm.label.idCharge,Charge,Taxa,Cargar
+Caption.obCustomer,Customer,Cliente,Cliente
+PricingVolumeForm.label.dsGoods,Description,Descrição,Descripción
+Caption.obDest,Destination,Destino,Destino
+SalesChargeForm.label.flProfitShare,Profit Share,Profit Share,Participación en las ganancias
+SalesChargeForm.label.vlMin,Min,Min,"""Min"" does not have a clear meaning in English. It could be a shortened version of a longer word or a name. Please provide more context or information for an accurate translation"
+SalesChargeForm.placeholder.vlMin,Min,Min,"""Min"" does not have a clear meaning in English. It could be a shortened version of a longer word or a name. Please provide more context or information for an accurate translation"
+SalesChargeForm.label.tpPPCC,PP / CC,PP / CC,"Lo siento, necesito más contexto para poder proporcionar una traducción precisa. ¿Podría proporcionar más información sobre el contexto en el que se utiliza ""PP / CC""?"
+SalesChargeForm.label.vlCharge,Value,Valor,Valor
+SalesChargeForm.placeholder.vlCharge,Value,Valor,Valor
+PricingVolume.label.nbFreeTimeDemurrage,Demurrage,Demurrage,Demurrage (no translation available as it is a technical term used in international trade)
+PricingVolume.placeholder.nbFreeTimeDemurrage,Demurrage,Demurrage,Demurrage (no translation available as it is a technical term used in international trade)
+SalesChargeManager.button.addSalesCharge,Add Charge,Adicionar Taxa,Agregar cargo
+SalesChargeManager.header.addSalesCharge,Add Charge,Adicionar Taxa,Agregar cargo
+PricingVolume.label.nbFreeTimeDetention,Detention,Detention,Traducción: Detención
+PricingVolume.placeholder.nbFreeTimeDetention,Detention,Detention,Traducción: Detención
+SalesChargeForm.placeholder.tpPPCC,Select,Selecione,Seleccionar
+AddSalesCharge.alert.success,Charge successfully added,Taxa adicionada com sucesso,Carga añadida exitosamente
+PricingVolume.placeholder.vlWeight,Weight,Peso,Peso
+PricingVolume.label.vlWeight,Weight,Peso,Peso
+SetSalesCharge.alert.success,Charge successfully updated,Taxa atualizada com sucesso,Carga actualizada con éxito
+ChargeSelect.placeholder,Select Charge,Selecione a Taxa,Seleccionar Cargo
+Caption.cdPricing,Pricing,Pricing,Precio
+FileList.tooltip.remove,Remove,Remover,Eliminar
+SalesChargeForm.label.vlMax,Max,Max,"Max (no necesita traducción, es un nombre propio en inglés)"
+SalesChargeForm.placeholder.vlMax,Max,Max,"Max (no necesita traducción, es un nombre propio en inglés)"
+PricingVolume.label.freeTime,Free Time,Free Time,Tiempo libre
+EditQuotation.button.pricingVolumes,Equipment / Volumes,Equipamento / Volumes,Equipo / Volúmenes
+EditQuotation.header.editQuotation,Quotation Editing,Edição de Cotação,Edición de cotización
+SalesChargeForm.label.flVATOS,VATOS,VATOS,"Lo siento, pero no puedo proporcionar una traducción precisa de ""VATOS"" ya que es una jerga o argot en inglés y no tiene una traducción directa al español. Sin más contexto, no puedo determinar su significado exacto"
+Breadcrumb.quotations,Quotations,Cotações,Citas
+PricingList.paginator.pricings,Quotations,Cotações,Citas
+SalesChargeForm.label.tpCalculation,Calc Type,Tipo Calc,Tipo de cálculo
+SalesChargeForm.label.tpBuyOrSell,Buy / Sell,Compra / Venda,Comprar / Vender
+SalesChargeForm.label.flAccountable,Accountable,Contabilizável,Responsable
+EditQuotation.button.occurrences,Occurrences,Ocorrências,Ocurrencias
+ProcessChargeList.header.editSalesCharge,Charge Editing,Edição de Taxa,Editar cargo
+Caption.idVolume,Volume,Volume,Volumen
+SalesChargeForm.label.obSupplier,Company,Empresa,Compañía
+Caption.obSupplier,Company,Empresa,Compañía
+ProcessChargeForm.label.obSupplier,Company,Empresa,Compañía
+ProcessChargeForm.label.idVolume,Volume,Volume,Volumen
+ProcessChargeForm.label.idCharge,Charge,Taxa,Cargar
+ProcessChargeForm.label.vlCharge,Value,Valor,Valor
+ProcessChargeForm.placeholder.vlCharge,Value,Valor,Valor
+ProcessChargeManager.button.addSalesCharge,Add Charge,Adicionar Taxa,Agregar cargo
+ProcessChargeManager.header.addSalesCharge,Add Charge,Adicionar Taxa,Agregar cargo
+ProcessChargeForm.placeholder.tpPPCC,Select,Selecione,Seleccionar
+ProcessChargeForm.placeholder.tpBuyOrSell,Select,Selecione,Seleccionar
+ProcessChargeForm.placeholder.tpCalculation,Select,Selecione,Seleccionar
+SalesChargeForm.label.tpChargeLocal,Local,Local,"Local (en español) significa ""local"" o ""lugar cercano"""
+ProcessChargeForm.label.tpChargeLocal,Local,Local,"Local (en español) significa ""local"" o ""lugar cercano"""
+ProcessChargeForm.label.flProfitShare,Profit Share,Profit Share,Participación en las ganancias
+ProcessChargeForm.label.vlMin,Min,Min,"""Min"" does not have a clear meaning in English. It could be a shortened version of a longer word or a name. Please provide more context or information for an accurate translation"
+ProcessChargeForm.placeholder.vlMin,Min,Min,"""Min"" does not have a clear meaning in English. It could be a shortened version of a longer word or a name. Please provide more context or information for an accurate translation"
+Caption.tpPPCC,PP / CC,PP / CC,"Lo siento, necesito más contexto para poder proporcionar una traducción precisa. ""PP/CC"" puede tener diferentes significados dependiendo del contexto en el que se utilice"
+ProcessChargeForm.label.tpPPCC,PP / CC,PP / CC,"Lo siento, necesito más contexto para poder proporcionar una traducción precisa. ""PP/CC"" puede tener diferentes significados dependiendo del contexto en el que se utilice"
+ProcessChargeForm.label.vlMax,Max,Max,"Max (no necesita traducción, es un nombre propio en inglés)"
+ProcessChargeForm.placeholder.vlMax,Max,Max,"Max (no necesita traducción, es un nombre propio en inglés)"
+AddPricingVolume.alert.success,Volume successfully added,Volume adicionado com sucesso,Volumen agregado exitosamente
+AddQuotationVolume.alert.success,Volume successfully added,Volume adicionado com sucesso,Volumen agregado exitosamente
+NavRoute.subtitle.quotationEditing,Quotation Editing,Edição de Cotação,Edición de cotización
+AddOccurrence.alert.success,Occurrence successfully added,Ocorrência adicionada com sucesso,Ocurrencia añadida exitosamente
+ProcessChargeForm.label.flVATOS,VATOS,VATOS,"Lo siento, pero no puedo proporcionar una traducción precisa de ""VATOS"" ya que es una jerga o argot en inglés y no tiene una traducción directa al español"
+SetPricingVolume.alert.success,Volume successfully updated,Volume atualizado com sucesso,Volumen actualizado con éxito
+SetQuotationVolume.alert.success,Volume successfully updated,Volume atualizado com sucesso,Volumen actualizado con éxito
+ProcessChargeForm.label.tpCalculation,Calc Type,Tipo Calc,Tipo de cálculo
+ProcessChargeForm.label.tpBuyOrSell,Buy / Sell,Compra / Venda,Comprar / Vender
+ProcessChargeForm.label.flAccountable,Accountable,Contabilizável,Responsable
+ProcessForm.label.dtAta,ATA,ATA,"ATA no necesita traducción ya que es una sigla en inglés que se utiliza en español de la misma manera. Se refiere a ""Actual Time of Arrival"" que significa ""Hora de llegada actual"""
+ProcessVolumeForm.label.obVolume,Volume,Volume,Volumen
+ProcessVolumeList.paginator.pricingVolumes,Volumes,Volumes,Volúmenes
+Caption.invoiceTotal,Value,Valor,Valor
+InvoiceForm.label.stInvoice,Status,Status,Estado
+Caption.idCharge,Charge,Taxa,Cargar
+ProcessVolumesManager.header.addProcessVolume,Add Volume,Adicionar Volume,Añadir Volumen
+Caption.vlWeight,Weight,Peso,Peso
+ProcessVolumeList.header.editPricingVolume,Volume Editing,Edição de Volume,Edición de Volumen
+NotificationsDropdown.Notifications.Label,Notifications,Notificações,Notificaciones
+Caption.vlCubic,Cubage,Cubagem,Volumen
+StatementParcelsManager.header.addStatementParcel,Parcel Adding,Adicionando Parcela,Añadiendo paquete
+AwbSequenceManager.header.addAwbSequence,Add AWB Sequence,Adicionar Sequencia de AWB,Agregar secuencia AWB
+ProcessVolumeForm.label.vlGrossWeight,Gross Weight,Peso Bruto,Peso bruto
+ProcessChargeList.none,None,Nenhum,Ninguno
+ProcessVolumeForm.label.customer,Customer,Cliente,Cliente
+Button.occurrences,Occurrences,Ocorrências,Ocurrencias
+ProcessVolumeForm.placeholder.tpWeight,Select Type,Selecione o Tipo,Seleccionar tipo
+ProcessVolumesManager.button.addProcessVolume,Add Volume,Adicionar Volume,Añadir Volumen
+ProcessVolumeForm.label.carrier,Carrier,Armador,Transportista
+ProcessVolumeForm.label.vlTareWeight,Tare,Tara,Tara
+ProcessVolumeForm.label.dsObservation,Note,Observação,Nota
+ProcessVolumeForm.placeholder.vlCubic,Cubage,Cubagem,Volumen
+EditProcessSea.header.editProcessSea,Process Editing,Edição de Processo,Edición de procesos
+ProcessForm.label.nbFreeTimeDemurrage,Demurrage,Demurrage,Demurrage (no translation available as it is a technical term used in international trade)
+ProcessVolumeForm.label.nbFreeTimeDemurrage,Demurrage,Demurrage,Demurrage (en español: demora)
+ProcessVolumeForm.label.nbFreeTimeDemurrageCarrier,Demurrage,Demurrage,Demurrage (en español: demora)
+ProcessVolumeForm.placeholder.nbFreeTimeDemurrage,Demurrage,Demurrage,Demurrage (no translation available as it is a technical term used in international trade)
+ProcessVolumeForm.placeholder.nbFreeTimeDemurrageCarrier,Demurrage,Demurrage,Demurrage (en español: demora)
+ProcessVolumeForm.subHeader.freeTime,Free Time,Free Time,Tiempo libre
+ProcessVolumeForm.placeholder.dsObservation,Add note.,Digite a observação.,Agregar nota.
+ProcessVolumeForm.label.dsBlVolume,Volumes inside the container,Volumes dentro do container,Volúmenes dentro del contenedor
+ProcessForm.label.customer,Customer Free Time,Free Time do Cliente,Tiempo libre del cliente
+AwbSequenceManager.button.addAwbSequence,Add AWB Sequence,Adicionar Sequencia de AWB,Agregar secuencia AWB
+Button.actions.addInvoice,Add Invoice,Adicionar Invoice,Agregar factura
+Caption.nbAwbSequence,AWB Number,Número do AWB,Número de AWB
+AwbSequenceForm.label.nbAwbSequence,AWB Number,Número do AWB,Número de AWB
+ProcessVolumeForm.label.vlWidth,Width,Largura,Ancho
+ProcessVolumeList.header.editProcessVolume,Volume Editing,Edição de Volume,Edición de Volumen
+ProcessVolumeForm.label.vlDepth,Depth,Profundidade,Profundidad
+ProcessVolumeForm.placeholder.vlDepth,Depth,Profundidade,Profundidad
+ProcessForm.label.nbFreeTimeDemurrageCarrier,Demurrage,Demurrage,Demurrage (no translation available as it is a technical term used in international trade)
+ProcessVolumeForm.placeholder.nbFreeTimeDetentionCarrier,Detention,Detention,Traducción: Detención
+ProcessVolumeForm.placeholder.nbFreeTimeDetention,Detention,Detention,Traducción: Detención
+ProcessVolumeForm.placeholder.nbVolumeQuantity,Quantity,Quantidade,Cantidad
+ProcessVolumeForm.placeholder.vlWeight,Weight,Peso,Peso
+Caption.cdProcess,Process,Processo,Proceso
+ProcessVolumeForm.placeholder.vlGrossWeight,Gross Weight,Peso Bruto,Peso bruto
+ProcessVolumeForm.label.dsSealCode,Seal Code,Nº do Lacre,Código de sello
+ProcessVolumeForm.placeholder.dsSealCode,Seal Code,Nº do Lacre,Código de sello
+ProcessVolumeForm.placeholder.vlTareWeight,Tare,Tara,Tara
+ShippingInstructionsForm.label.deliveryPlace,Delivery Place,Local de Entrega,Lugar de entrega
+ProcessVolumeForm.label.vlHeight,Height,Altura,Altura
+ProcessVolumeForm.placeholder.vlHeight,Height,Altura,Altura
+ProcessVolumeForm.placeholder.vlWidth,Width,Largura,Ancho
+AddProcessVolume.alert.success,Volume added successfully,Volume adicionado com sucesso,Volumen añadido exitosamente
+ProcessVolumeForm.label.vlWeight,Net Weight,Peso Líquido,Peso neto
+SetProcessVolume.alert.success,Volume updated successfully,Volume atualizado com sucesso,Volumen actualizado exitosamente
+Caption.vlTotal,Total,Total,Total
+ShippingInstructionsForm.label.shippingInfo,Shipping Instructions,Instruções de Embarque,Instrucciones de envío
+ShippingInstructionsForm.placeholder.shippingInfo,Shipping Instructions,Instruções de Embarque,Instrucciones de envío
+EditProcessCountryOrig.placeholder.initialPlace,Type the initial place,Digite o local inicial,Escribe el lugar inicial
+EditProcessCommodities.placeholder.commodity1,Type the infos,Digite as informações,Traducción: Escribe la información
+EditProcessCommodities.placeholder.commodity4,Type the infos,Digite as informações,Traducción: Escribe la información
+EditProcessCommodities.placeholder.commodity2,Type the infos,Digite as informações,Traducción: Escribe la información
+DraftForm.volumeHeader.vlGrossWeight,Gross Weight,Gross Weight,Peso bruto
+DraftManager.button.print,Print,Imprimir,Imprimir
+ShippingInstructionsForm.label.chargeDetentions,Detention,Detention,"Traducción:
+Detención"
+ShippingInstructionsForm.label.documentDeliveryPlace,Document Delivery Place,Local de Entrega da Documentação,Lugar de entrega de documentos
+ShippingInstructionsForm.placeholder.documentDeliveryPlace,Document Delivery Place,Local de Entrega da Documentação,Lugar de entrega de documentos
+EditProcessFinalDestination.placeholder.finalDestination,Type the final destination,Digite o destino final,Escribe el destino final
+EditProcessCneeContact.label.addContact,Add Contact,Adicionar Contato,Agregar contacto
+EditProcessCommodities.placeholder.commodity3,Type the infos,Digite as informações,Traducción: Escribe la información
+EditProcessCommodities.placeholder.commodity5,Type the infos,Digite as informações,Traducción: Escribe la información
+Caption.vlExchange,Exchange,Câmbio,Intercambio
+EditProcessVesselVoyage.placeholder.alias,Type the name,Digite o nome,Escribe el nombre
+EditProcessCommodities.label.commodity4,Gross Weight,Gross Weight,Peso bruto
+EditQuotation.button.download,Download,Download,Descargar
+EditProcessCommodities.label.commodity3,Description of Goods,Description of Goods,Descripción de los bienes
+EditProcessCommodities.label.commodity5,Measurement,Measurement,Medición
+EditProcessCnee.label.obCnee,Cnee in the Process,Cnee no Processo,Cnee en el proceso
+EditProcessCneeContact.label.obCnee,Cnee in the Process,Cnee no Processo,Cnee en el proceso
+EditProcessCneeContact.label.forDelivery,Forwarding Agent to Print,Forwarding Agent na Impressão,Agente de reenvío para imprimir
+EditProcessCnee.label.cnee,CNEE to Print,CNEE para Impressão,CNEE a Imprimir
+EditProcessOrigin.placeholder.alias,Type the port name,Digite o nome do porto,Escribe el nombre del puerto
+EditProcessDest.placeholder.alias,Type the port name,Digite o nome do porto,Escribe el nombre del puerto
+EditProcessCommodities.label.commodity2,Packages,Packages,Paquetes
+EditProcessShipper.label.obShipper,Shipper in the Process,Shipper no Processo,Remitente en proceso
+InvoiceChargeGridForm.placeholder.cdCreditDebit,Select,Selecionar,Seleccionar
+Transhipments.caption.dtEta,ETA,ETA,"Traducción:
+ETA"
+Transhipments.caption.tpTranshipment,Type,Tipo,Tipo
+TranshipmentItem.placeholder.tpTranshipment,Type,Tipo,Tipo
+InvoiceChargeGridForm.label.idCharge,Charge,Taxa,Cargar
+EditProcessIataCode.label.updateIataCode,Update,Atualizar,Actualizar
+SideMenuComponent.label.instructions,Instructions,Instruções,Instrucciones
+Transhipments.caption.dtEtd,ETD,ETD,"ETD significa ""Tiempo estimado de salida"" en inglés"
+SideMenuComponent.label.financial,Financial,Financeiro,Financiero
+Transhipments.caption.obVessel,Vessel,Navio,Barco
+InvoiceForm.label.dtExpire,Expire,Vencimento,Caducar
+NavRoute.subtitle.invoiceEditing,Invoice Editing,Edição de Invoice,Edición de factura
+InvoiceItemsInput.header.items,Items,Itens,Artículos
+InvoiceItemsInput.paginator.items,Items,Itens,Artículos
+EditProcessAccountInfo.label.accountInfo,Accounting Information,Accounting Information,Información contable
+EditProcessAccountInfo.placeholder.accountInfo,Accounting Information,Accounting Information,Información contable
+InvoiceForm.label.vlBalance,Balance,Saldo,Equilibrio
+Transhipments.caption.dsVoyage,Voyage,Viagem,Viaje
+TranshipmentsInput.header.transshipments,Transshipments,Transbordos,Transbordos
+TranshipmentsInput.paginator.items,Transshipments,Transbordos,Transbordos
+BankAccountSelect.placeholder,Bank Account,Conta Bancária,Cuenta bancaria
+Invoices.headerLabel.invoicesList,Invoice List,Lista de Invoices,Lista de facturas
+EditProcessCommodities.label.commodity1,Marks and Numbers,Marks and Numbers,Marcas y Números
+EditProcessIataCode.label.iataCode,IATA Code,Código IATA,Código IATA
+EditProcessAccountNumber.label.updateAccountNumber,Update,Atualizar,Actualizar
+InvoiceForm.placeholder.dsInvoiceNumber,Number,Número,Número
+Caption.obLocal,Local,Local,"Local (en español) significa ""local"" o ""lugar cercano"""
+InvoiceForm.label.dsInvoice,Description,Descrição,Descripción
+InvoiceForm.placeholder.dsInvoice,Description,Descrição,Descripción
+InvoiceForm.label.total,Total,Total,Total
+InvoiceChargeGridForm.label.vlCharge,Value,Valor,Valor
+InvoiceParcelList.caption.vlParcel,Value,Valor,Valor
+InvoiceParcelForm.label.vlParcel,Value,Valor,Valor
+InvoiceParcelForm.label.stParcel,Status,Status,Estado
+InvoiceChargeGridForm.label.vlExchange,Exchange,Câmbio,Intercambio
+Caption.dtExpire,Expire,Vencimento,Caducar
+InvoiceParcelForm.label.dtExpire,Expire,Vencimento,Caducar
+SeaOperations.header.airOperations,Air Operations,Operações Aéreas,Operaciones Aéreas
+Breadcrumb.airOperations,Air Operations,Operações Aéreas,Operaciones Aéreas
+InvoiceList.header.editInvoice,Invoice Editing,Edição de Invoice,Edición de factura
+EditInvoice.header.editInvoice,Invoice Editing,Edição de Invoice,Edición de factura
+InvoiceForm.label.dsObsInvoice,Note,Observação,Nota
+EditProcessAccountNumber.label.accountNumber,Account Number,Account Number,Número de cuenta
+EditProcessAccountNumber.placeholder.accountNumber,Account Number,Account Number,Número de cuenta
+InvoiceForm.placeholder.dsObsInvoice,Add note.,Digite a observação.,Agregar nota.
+InvoiceParcelsManager.header.addInvoiceParcel,Parcel Adding,Adicionando Parcela,Añadiendo paquete
+EditInvoice.button.parcels,Parcels,Parcelas,Paquetes
+InvoiceParcelList.paginator.invoiceParcels,Parcels,Parcelas,Paquetes
+SafeDelete.button.no,No,Não,"Lo siento, no puedo traducir ""No"" ya que es una palabra en inglés que significa ""No"" en español. ¿Puedo ayudarte con alguna otra traducción?"
+Settings.button.offices,Offices,Escritórios,Oficinas
+OfficeConfigManager.label.office,Office,Escritório,Oficina
+ProcessVolumeList.paginator.processVolumes,Volumes,Volumes,Volúmenes
+Caption.stParcel,Status,Status,Estado
+InvoiceForm.button.addCharge,Add Charge,Adicionar Taxa,Agregar cargo
+Label.CompanyCurrency,Currency,Moeda,Moneda
+Caption.nmCharge,Charge,Taxa,Cargar
+AddInvoiceCharge.alert.success,Charge successfully added,Taxa adicionada com sucesso,Carga añadida exitosamente
+Invoices.button.import,Import,Importar,Importar
+OrganizationConfigManager.label.organization,Organization,Organização,Organización
+SetInvoiceCharge.alert.success,Charge successfully updated,Taxa atualizada com sucesso,Carga actualizada con éxito
+EditQuotation.button.attachments,Attachments,Anexos,Adjuntos
+FileList.tooltip.download,Download,Download,Descargar
+OfficeForm.placeholder.dsNifVat,Type the document number,Digite o número do documento,Escriba el número del documento
+FirstRegisterForm.placeholder.dsNifVat,Type the document number,Digite o número do documento,Escriba el número del documento
+NavRoute.title.settings,Settings,Configurações,Configuraciones
+OrganizationSelect.placeholder,Select organization,Selecione a organização,Seleccionar organización
+OfficeForm.label.dsNifVat,NIF / VAT,CNPJ / CPF / NIF / VAT,NIF / VAT se traduce como Número de Identificación Fiscal / Impuesto sobre el Valor Añadido
+FirstRegisterForm.label.dsNifVat,NIF / VAT,CNPJ / CPF / NIF / VAT,NIF / VAT se traduce como Número de Identificación Fiscal / Impuesto sobre el Valor Añadido
+Settings.button.companies,Companies,Empresas,Empresas
+CompanyConfigManager.label.company,Company,Empresa,Compañía
+Label.OfficeCurrency,Currency,Moeda,Moneda
+Label.OrganizationCurrency,Currency,Moeda,Moneda
+AirQuotationsComponent.button.addQuotation,Add Quotation,Adicionar Cotação,Agregar cita
+Caption.date,Date,Data,Fecha
+SideMenuComponent.label.airQuotations,Air Quotations,Cotações Aéreas,Comillas de aire
+Breadcrumb.airQuotations,Air Quotations,Cotações Aéreas,Comillas de aire
+AirQuotation.label.pricing.obCarrierOrigin,Airline Origin,CIA Aérea Origem,Origen de la aerolínea
+AirQuotation.label.pricing.obCarrierDest,Airline Destination,CIA Aérea Destino,Destino de la aerolínea
+AirQuotationsComponent.headerLabel.quotationsList,Quotations List,Lista de Cotações,Lista de cotizaciones
+CommercialForm.label.quotation.vlSell,Sell,Venda,Vender
+SideMenuComponent.label.profiles,Profiles,Perfis,Perfiles
+NavRoute.title.profiles,Profiles,Perfis,Perfiles
+ConfirmInvite.label.confirm,Join,Aceitar,Unirse
+NavRoute.subtitle.statementEditing,Statement Editing,Edição de Statement,Edición de declaraciones
+RoleForm.placeholder.idHierarchy,Select,Selecione,Seleccionar
+IofCalculator.label.total,Total,Total,Total
+IofCalculator.label.officeExchange,Exchange,Câmbio,Intercambio
+IofCalculator.label.vlExchange,Exchange,Câmbio,Intercambio
+AddProcessCharge.alert.success,Charge added successfully,Taxa adicionada com sucesso,Carga añadida exitosamente
+NavRoute.title.statements,Statements,Statements,Declaraciones
+SideMenuComponent.label.statements,Statements,Statements,Declaraciones
+IofCalculator.button.add,Calculate,Calcular,Calcular
+DialectForm.label.cdLanguage,Language,Língua,Idioma
+Caption.cdLanguage,Language,Língua,Idioma
+DialectForm.label.dsTranslate,Translation,Tradução,Traducción
+Caption.dsTranslate,Translation,Tradução,Traducción
+EditStatement.header.editStatement,Statement Editing,Edição de Statement,Edición de declaraciones
+DialectManager.button.addDialect,Translations,Traduções,Traducciones
+Caption.dsRole,Profile,Perfil,Perfil
+ProfitShareRecalc.label.flRountingOrder,Routing Order,Routing Order,Orden de enrutamiento
+Caption.nbVolumeQuantity,Quantity,Quantidade,Cantidad
+Caption.tpChargeLocal,Local,Local,"Local (en español) significa ""local"" o ""lugar cercano"""
+Label.vlMinBuy,Min,Min,"""Min"" does not have a clear meaning in English. It could be a shortened version of a longer word or a name. Please provide more context or information for an accurate translation"
+ProfitShareRecalc.label.vlProfitShare,Value,Valor,Valor
+Caption.cdCurrency,Currency,Moeda,Moneda
+Label.cdCurrency,Currency,Moeda,Moneda
+ProfitShareRecalc.label.tpProfitShare,Type,Tipo,Tipo
+Caption.vlSell,Sell,Venda,Vender
+ProfitShareRecalc.placeholder.tpProfitShare,Select Type,Selecione o Tipo,Seleccionar tipo
+ProcessChargeForm.label.flCommission,Commission,Comissão,Comisión
+ProcessForm.label.Connections,Connections,Conexões,Conexiones
+DeleteQuotationVolume.alert.success,Volume successfully deleted,Volume removido com sucesso,Volumen eliminado exitosamente
+DeleteProcessVolume.alert.success,Volume successfully deleted,Volume removido com sucesso,Volumen eliminado exitosamente
+SalesChargeList.tooltip.duplicate,Duplicate,Duplicar,Duplicado
+ProfitShareRecalc.label.flAgentContract,Agent Contract,Contrato do Agente,Contrato de Agente
+AddPricingProfitShare.alert.success,Profitshare successfully added,Profitshare adicionado com sucesso,Traducción: Profitshare se ha añadido con éxito
+ProcessChargeList.header.editProcessCharge,Charge Editing,Edição de Taxa,Edición de cargos
+PricingVolume.label.nbVolumeQuantity,Quantity,Quantidade,Cantidad
+SalesChargeForm.label.total,Total,Total,Total
+NavRoute.title.instructions,Instructions,Instruções,Instrucciones
+Instructions.header.instructions,Instructions,Instruções,Instrucciones
+Breadcrumb.instructions,Instructions,Instruções,Instrucciones
+Instructions.paginator.instructions,Instructions,Instruções,Instrucciones
+ProfitShareRecalc.label.obAgentPay,Remittance Agent,Agente Remessa,Agente de Remesas
+Caption.dwt,DWT,DWT,"DWT (por sus siglas en inglés) se traduce como ""Peso Muerto en Toneladas"" en español"
+Caption.mmsi,MMSI,MMSI,MMSI (Sistema de Identificación de Barcos y Estaciones Marítimas)
+DataGrid.button.resetDefault,Restore Default,Restaurar Padrão,Restaurar valores predeterminados
+FileList.tooltip.view,View,Visualizar,Ver
+CommercialForm.label.common.finalDestination,Final Destination,Destino Final,Destino final
+FileList.button.download,Download,Download,Descargar
+Caption.grossTon,Gross Ton,Gross Ton,Tonelada Bruta
+ProfitShareRecalc.button.calc,Calculate,Calcular,Calcular
+InstructionsList.placeholder.search,Instructions List,Lista de Instruções,Lista de instrucciones
+CommercialForm.label.common.initialPlace,Initial Place,Local Inicial,Lugar inicial
+PricingVolumeList.caption.vlCalcTotalWeight,Total Weight,Peso Total,Peso total
+VesselList.paginator.vessels,Vessels,Navios,Barcos
+InstructionForm.label.dsInstruction,Description,Descrição,Descripción
+ProcessChargeForm.label.nbQuantity,Quantity,Quantidade,Cantidad
+ProcessChargeForm.label.vlExchange,Exchange,Câmbio,Intercambio
+InstructionForm.placeholder.nmInstruction,Type the name,Digite o nome,Escribe el nombre
+DepartmentList.paginator.Departments,Departments,Departamentos,Departamentos
+Caption.flag,Flag,Bandeira,Bandera
+Caption.stVessel,Status,Status,Estado
+Caption.stPort,Status,Status,Estado
+Caption.stAirport,Status,Status,Estado
+Caption.stCharge,Status,Status,Estado
+InstructionForm.label.nmInstruction,Name,Nome,Nombre
+Vessels.button.addVessel,Add vessel,Adicionar navio,Añadir embarcación
+Vessels.header.addVessel,Add vessel,Adicionar navio,Añadir embarcación
+SalesChargeForm.label.flNonProfit,Non profitable,Non profitable,No rentable / Sin fines de lucro
+ProcessChargeForm.label.flNonProfit,Non profitable,Non profitable,No rentable / Sin fines de lucro
+ProcessChargeManager.label.Profit,Profit,Profit,Beneficio
+Instructions.headerLabel.instructionList,Instructions List,Lista de Instruções,Lista de instrucciones
+SalesProcessOptions.unlink,Unlink,Desvincular,Desvincular
+GridPaginato.label.previous,Previous,Anterior,Anterior
+Caption.country,Country,País,País
+Caption.status,Status,Status,Estado
+ProcessForm.label.obOrigin,Origin,Origem,Origen
+OccurrenceList.paginator.occurrences,Occurrencies,Ocorrências,Traducción: Ocurrencias
+Salesmen.header.salesmen,Salespersons,Vendedores,Vendedores
+ProfitSharesManager.header.profitShares,Profit Share,Profit Share,Participación en las ganancias
+AddCompanyComponent.button.negotiation,Profit Share,Profit Share,Participación en las ganancias
+EditOffice.button.negotiation,Profit Share,Profit Share,Participación en las ganancias
+ProfitShareList.paginator.profitShares,Profit Share,Profit Share,Participación en las ganancias
+ImportProcessChargesForm.button.import,Import,Importar,Importar
+Caption.dsNifVat,Document,Documento,Documento
+Caption.flProtected,Protected,Protegido,Protegido
+ProfitSharesManager.header.addProfitShare,Add Profit Share,Adicionar Profit Share,Agregar participación en las ganancias
+ProfitSharesManager.button.addProfitShare,Add Profit Share,Adicionar Profit Share,Agregar participación en las ganancias
+Caption.flTracking,Tracking,Tracking,Seguimiento
+AddBankAccount.AddBankAccount,Add Bank Account,Adicionar Conta Bancária,Agregar cuenta bancaria
+InvoiceForm.label.addBankAccount,Add Bank Account,Adicionar Conta Bancária,Agregar cuenta bancaria
+SideMenuComponent.label.demurrages,Demurrages,Demurrages,Demurrages (no translation available as it is a technical term used in international trade and shipping)
+Demurrages.header.demurrages,Demurrages,Demurrages,Demurrages (no translation available as it is a technical term used in international trade and shipping)
+Breadcrumb.demurrages,Demurrages,Demurrages,Demurrages (this term is already the same in Spanish) - refers to the charges or fees that are incurred when a cargo or shipment is delayed beyond the agreed-upon time for loading or unloading at a port or terminal
+ProcessForm.placeholder.vlProfitShare,Value,Valor,Valor
+placeholder.cdCurrency,Currency,Moeda,Moneda
+NavRoute.title.demurrages,Demurrages,Demurrages,Demurrages (no translation available as it is a technical term used in international trade and shipping)
+Label.dsOperation,Operation,Operação,Operación
+Placeholder.dsOperation,Operation,Operação,Operación
+Button.cancel,Cancel,Cancelar,Cancelar
+ProcessForm.label.tpPPCC,PP / CC,PP / CC,"Lo siento, necesito más contexto para poder proporcionar una traducción precisa. ¿Podría proporcionar más información sobre el contexto en el que se utiliza ""PP / CC""?"
+Caption.cdProcessHouse,House,House,Casa
+Placeholder.dsBilling,Financial,Financeiro,Financiero
+Label.dsBilling,Financial,Financeiro,Financiero
+Caption.obCarrier,Carrier,Armador,Transportista
+ProcessForm.label.obVia,Via,Via,"""Via"" se traduce al español como ""camino"" o ""vía"""
+Button.search,Search ,Pesquisar,Buscar
+ExportForm.label.flDirect,Direct,Direto,Directo
+VesselFormGroupComponent.caption.flag,Flag,Bandeira,Bandera
+Tooltip.remove,Remove,Remover,Eliminar
+ProcessForm.label.obCarrierDest,Carrier Destination,Armador Destino,Destino del transportista
+ProcessForm.label.obCarrierOrigin,Carrier Origin,Armador Origem,Origen del transportista
+Tooltip.edit,Edit,Editar,Editar
+ProcessForm.placeholder.houseNumber,Type the number,Digite o número,Escribe el número
+Caption.cdProcessMaster,Master,Master,Maestro
+Placeholder.dsPricing,Pricing and Commercial,Pricing e Comercial,Precios y Comercialización
+Caption.nbCarrierFreeTime,Carrier FT,FT Armador,Transportista FT
+Demurrages.button.demurrageControl,Demurrage Control,Controle de Demurrage,Control de demora
+Demurrages.header.demurrageControl,Demurrage Control,Controle de Demurrage,Control de demora
+ProcessForm.header.AddContact,Add Contact,Adicionar Contato,Agregar contacto
+ProcessForm.label.obCustomer,Customer,Cliente,Cliente
+ProcessForm.label.addContact,Add Contact,Adicionar Contato,Agregar contacto
+ProcessForm.AddContact,Add Contact,Adicionar Contato,Agregar contacto
+ProcessForm.placeholder.tpProfitShare,Select Type,Selecione o Tipo,Seleccionar tipo
+Label.vlMinSell,Min,Min,"""Min"" does not have a clear meaning in English. It could be a shortened version of a longer word or a name. Please provide more context or information for an accurate translation"
+ProcessForm.label.stProcess,Status,Status,Estado
+ProcessForm.label.obAgentPay,Remittance Agent,Agente Remessa,Agente de Remesas
+ProcessForm.label.obVessel,Vessel,Navio,Barco
+ProcessForm.label.flProject,Project,Projeto,Proyecto
+ProcessForm.label.obShipper,Shipper,Shipper,Remitente
+ProcessForm.label.idQuotation,Quotation,Cotação,Cotización
+ProcessForm.label.obCnee,Cnee,Cnee,"Lo siento, no puedo traducir ""Cnee"" ya que no tengo suficiente contexto o información para interpretar su significado. Por favor proporcione más detalles o una oración completa para que pueda ayudarlo mejor"
+ProcessForm.placeholder.cdCarrierDocument,Type the number,Digite o número,Escribe el número
+ProcessForm.label.obCustomerContact,Customer Contact,Contato do Cliente,Contacto con el cliente
+ProcessForm.placeholder.obDraft.initialPlace,Type the place,Digite o local,Escribe el lugar
+ProcessForm.label.obTranshipments,Transhipments,Transbordos,Transbordos
+ProcessForm.label.registered,Registered,Cadastrados,Registrado
+ProcessForm.label.flAgentContract,Agent Contract,Contrato do Agente,Contrato de Agente
+ProcessForm.label.dtProcess,Process Date,Data do Processo,Fecha de Procesamiento
+ProcessForm.label.obNotify,Notify,Notify,Notificar
+ProcessForm.label.obDraft.initialPlace,Initial Place,Local Inicial,Lugar inicial
+ProcessForm.label.carrier,Carrier Free Time,Free Time do Armador,Tiempo libre de transporte
+Label.vlAwbBuy,Vl/Kg,Vl/Kg,"Lo siento, no puedo traducir ""Vl/Kg"" ya que no es una palabra o frase en inglés. ¿Puedes proporcionar más contexto o información sobre lo que estás tratando de traducir?"
+Label.vlAwbSell,Vl/Kg,Vl/Kg,"Lo siento, no puedo traducir ""Vl/Kg"" ya que no es una palabra o frase en inglés. ¿Puedes proporcionar más contexto o información sobre lo que estás tratando de traducir?"
+ProcessForm.placeholder.user,Select User,Selecione o Usuário,Seleccionar Usuario
+ProcessForm.subHeader.originDestination,Origin / Destination,Origem / Destino,Origen / Destino
+ProcessForm.label.dtAtd,ATD,ATD,"Lo siento, no puedo traducir ""ATD"" ya que no tengo suficiente contexto para interpretar su significado. Por favor proporcione más información o contexto para que pueda ayudarlo mejor"
+ProcessForm.subHeader.deadLines,Deadlines,Prazos,Plazos
+ProcessForm.label.obDraft.finalDestination,Final Destination,Destino Final,Destino final
+Label.dsBody,Description,Descrição,Descripción
+ProcessForm.label.dtTelexRelease,Express/Telex Release,Express/Telex Release,Liberación Expresa/Telex
+ProcessForm.placeholder.obDraft.finalDestination,Type the place,Digite o local,Escribe el lugar
+Breadcrumb.changelog,Changelog,Changelog,Registro de cambios
+NavRoute.title.changelog,Changelog,Changelog,Registro de cambios
+Tooltip.reminder,Reminder,Lembrete,Recordatorio
+Label.obAgent,Agent,Agente,Agente
+CommercialForm.label.common.dsObservation,Note,Observação,Nota
+Label.masterOrHouseField,"Master field ""{0}""","Campo ""{0}"" no master","Campo maestro ""{0}"""
+Caption.dsSealCode,Seal Code,Nº do Lacre,Código de sello
+EditProcessDeclaredValueCarrier.placeholder.declaredValueCarrier,Declared Value (Carriage),Declared Value (Carriage),Valor Declarado (Transporte)
+ProcessForm.label.dtDlCargo,Cargo/DUE cut off,Carga/SD,Corte de carga/DUE
+Label.nmNetworking,Networking,Networking,Redes de comunicación
+Tooltip.restoreDefault,Restore Default,Restaurar Padrão,Restaurar valores predeterminados
+Caption.dtTelexReleaseMaster,Express/Telex Release,Express/Telex Release,Liberación Expresa/Telex
+Caption.tpModality,Modality,Modalidade,Modalidad
+Entity.invoice,Invoice,Invoice,Factura
+Entity.quotation,Quotation,Cotação,Cotización
+Entity.process,Process,Processo,Proceso
+ProcessForm.label.tpProfitShare,Type,Tipo,Tipo
+Caption.cdPort,Code,Código,Código
+DemurrageForm.placeholder.vlDemurrageBuy,Value,Valor,Valor
+DemurrageForm.placeholder.vlDemurrageSell,Value,Valor,Valor
+ProcessForm.label.vlProfitShare,Value,Valor,Valor
+ProcessForm.placeholder.nbFreeTimeDemurrage,Demurrage,Demurrage,Demurrage (no translation available as it is a technical term used in international trade)
+Placeholder.nmUser,Name,Nome,Nombre
+RoleForm.label.dsRole,Name,Nome,Nombre
+CountrySelectComponent.placeholder,Choose,Selecione,Elegir
+FirstRegisterForm.label.code,Code,Código,Código
+CommercialForm.label.common.stSales,Status,Status,Estado
+CredCardFormGroupComponent.label.name,First Name,Nome,Nombre de pila
+DemurrageForm.label.cdCurrencyBuy,Currency,Moeda,Moneda
+DemurrageForm.label.cdCurrencySell,Currency,Moeda,Moneda
+CommercialForm.label.common.stStatus,Status,Status,Estado
+CommercialForm.label.quotation.nbFreeTimeDemurrage,Demurrage,Demurrage,Demurrage (en español: demora)
+CommercialForm.placeholder.quotation.nbFreeTimeDemurrage,Demurrage,Demurrage,Demurrage (no translation available as it is a technical term used in international trade)
+Caption.nmContact,Name,Nome,Nombre
+CommercialForm.label.quotation.nbFreeTimeDetention,Detention,Detention,Traducción: Detención
+CommercialForm.label.pricing.cdCurProfitShare,Currency,Moeda,Moneda
+CommercialForm.label.pricing.tpProfitShare,Type,Tipo,Tipo
+IncotermList.caption.nmIncoterm,Name,Nome,Nombre
+EditIncoterm.label.nmIncoterm,Name,Nome,Nombre
+IncotermChargesManager.button.addIncotermCharge,Add Charge,Adicionar Taxa,Agregar cargo
+IncotermChargesManager.header.addIncotermCharge,Add Charge,Adicionar Taxa,Agregar cargo
+IncotermRuleForm.label.tpModality,Modalities,Modalidades,Modalidades
+IncotermRuleForm.type.tpModality,Modalities,Modalidades,Modalidades
+EditIncoterm.label.cdIncoterm,Code,Código,Código
+IncotermChargeForm.label.tpModality,Modalities,Modalidades,Modalidades
+ProcessForm.placeholder.nbFreeTimeDemurrageCarrier,Demurrage,Demurrage,Demurrage (en español: demora)
+ShippingInstructionsForm.label.chargeDemurrage,Demurrage,Demurrage,Demurrage (no translation available as it is a technical term used in international trade)
+InviteForm.label.nmPerson,Name,Nome,Nombre
+PortForm.label.nmPort,Name,Nome,Nombre
+PortForm.label.cdPort,Code,Código,Código
+PortForm.placeholder.cdAirport,Code,Código,Código
+Placeholder.cdCurrency,Currency,Moeda,Moneda
+SalesChargeForm.placeholder.tpBuyOrSell,Select,Selecione,Seleccionar
+SalesChargeForm.placeholder.tpCalculation,Select,Selecione,Seleccionar
+SalesChargeForm.placeholder.tpChargeLocal,Select,Selecione,Seleccionar
+ProcessChargeForm.placeholder.tpChargeLocal,Select,Selecione,Seleccionar
+ProcessChargeManager.button.addProcessCharge,Add Charge,Adicionar Taxa,Agregar cargo
+ProcessChargeManager.header.addProcessCharge,Add Charge,Adicionar Taxa,Agregar cargo
+ProcessVolumeForm.label.nbFreeTimeDetention,Detention,Detention,Traducción: Detención
+ProcessVolumeForm.label.nbFreeTimeDetentionCarrier,Detention,Detention,Traducción: Detención
+ProcessChargeForm.placeholder.tpAgentCarrier,Select,Selecione,Seleccionar
+InvoiceParcelForm.placeholder.stParcel,Select,Selecione,Seleccionar
+InstructionForm.label.tpInstruction,Type,Tipo,Tipo
+InstructionForm.itemLabel.tpInstruction,Type,Tipo,Tipo
+PortForm.placeholder.cdPort,Code,Código,Código
+ProcessForm.label.nbFreeTimeDetentionCarrier,Detention,Detention,"Traducción:
+Detención"
+ProcessForm.placeholder.nbFreeTimeDetentionCarrier,Detention,Detention,"Traducción:
+Detención"
+ProcessForm.label.nbFreeTimeDetention,Detention,Detention,Traducción: Detención
+ProcessForm.placeholder.nbFreeTimeDetention,Detention,Detention,Traducción: Detención
+ProcessForm.placeholder.tpPPCC,Select,Selecione,Seleccionar
+ProcessForm.label.cdCurProfitShare,Currency,Moeda,Moneda
+Caption.nmDest,Destination,Destino,Destino
+SmartTutorial.checkIdPort,You can select one or more types,Pode selecionar um ou mais tipos,Puedes seleccionar uno o más tipos
+SmartTutorial.actionsAgentModality,You can select one or more types,Pode selecionar um ou mais tipos,Puedes seleccionar uno o más tipos
+SmartTutorial.actionsTpCompany,You can select one or more types,Pode selecionar um ou mais tipos,Puedes seleccionar uno o más tipos
+SmartTutorial.actionsCheckModality,You can select one or more types,Pode selecionar um ou mais tipos,Puedes seleccionar uno o más tipos
+ChooseCompanyComponent.header.chooseCompany,Company,Empresa,Compañía
+OfficeFormGroupComponent.label.company,Company,Empresa,Compañía
+Caption.cdDest,Destination,Destino,Destino
+SmartTutorial.actionsCdFreightType,You can select one or more types,Pode selecionar um ou mais tipos,Puedes seleccionar uno o más tipos
+Users.header.users,Users,Usuários,Usuarios
+CompanyFormGroupComponent.label.country,Country,País,País
+AddCompanyComponent.header.addCompany,Add Company,Adicionar Empresa,Añadir Compañía
+Breadcrumb.profiles,Profiles,Perfis,Perfiles
+Profiles.header.profiles,Profiles,Perfis,Perfiles
+Label.sucess,Charge successfully added,Taxa adicionada com sucesso,Carga añadida exitosamente
+VesselFormGroupComponent.search,Search,Pesquisar,Buscar
+Caption.obCourier,Courier,Courier,Mensajero
+DeletePricingVolume.alert.success,Volume successfully deleted,Volume removido com sucesso,Volumen eliminado exitosamente
+Caption.cdQuotation,Quotation,Cotação,Cotización
+Caption.obPhones,Phone,Telefone,Teléfono
+Placeholder.servicesAmount,Type the total value,Digite o valor total,Escribe el valor total
+BillingPlanComponent.header.choosePaymentMethod,Choose the payment method,Escolha o método de pagamento,Elige el método de pago
+Drivers.header.addDriver,Add Driver,Adicionar Motorista,Agregar conductor
+DialectList.header.translations,Translations,Traduções,Traducciones
+Vehicles.header.addVehicle,Add Vehicle,Adicionar Veículo,Agregar vehículo
+SmartPopover.config.nbFreeTimeDetentionVolume,"Only fill in if the freetime is different from the process. <br /><b>Example:</b> If the process has 5 CNTR 20 dry, and 1 CNTR 40 NOR, the free time of 40 NOR is different from the others, so it can be configured here.","Preencher somente se o free time for diferente do processo.<br /><b>Exemplo:</b> caso o processo tenha 5 CNTR 20 dry, e 1 CNTR 40 NOR, o free time do 40 NOR é diferente dos outros, sendo assim podendo ser configurado aqui.","Solo completar si el tiempo libre es diferente al proceso. <br /><b>Ejemplo:</b> Si el proceso tiene 5 CNTR 20 secos y 1 CNTR 40 NOR, el tiempo libre de 40 NOR es diferente a los demás, por lo que se puede configurar aquí."
+Airports.button.addAirport,Add Airport,Adicionar Aeroporto,Añadir aeropuerto
+NavRoute.title.tracking.management,Tracking Management,Gerenciamento de Tracking,Gestión de seguimiento
+Label.financial-invoices-total,Invoice List,Lista de Invoices,Lista de facturas
+Label.nmAgentPayProc,Remittance Agent (Edited),Agente Remessa (Editado),Agente de Remesas (Editado)
+EditQuotation.button.documentGen,View document,Gerar Documento,Ver documento
+Label.trackingEmailDefaultSend,"By default, sending is done using the system email.","Por padrão, o envio é feito utilizando o email do sistema.","Por defecto, el envío se realiza utilizando el correo electrónico del sistema."
+ a credit for the master and a credit for each house.,"Two credits will be charged by direct process. And in the consolidated processes, a credit for the master and a credit for each house.", a credit for the master and a credit for each house.,"Se cargarán dos créditos por proceso directo. Y en los procesos consolidados, un crédito para el maestro y un crédito por cada casa."

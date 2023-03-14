@@ -1,0 +1,69 @@
+dsmsgkey,dsenus,dsptbr,dseses
+Action.name.DELETEPROCESSGROUNDNATIONAL,Delete Process Ground National,Remover Processo Rodoviário Doméstico,Remover Proceso Nacional Terrestre
+AirlineForm.placeholder.cdAirline,eg. G3,ex. G3,ej. G3
+AirlineForm.placeholder.cdIcao,eg. GLO,ex. GLO,ej. GLO
+CalculationTypes.PER_CNTR,Per CNTR,Por CNTR,Por CNTR
+Caption.cdCreditDebit,C / D,C / D,C / D
+Caption.dsCntrCode,CNTR # ,Nº CNTR,Nº CNTR
+Caption.dtDlSd,DL SD,DL SD,DL SD
+Caption.dtRedestination,Dt. Redestination,Dt. Redestinação,Dt. Redestinación
+Caption.hbl,HBL,HBL,HBL
+Caption.nbQtCntr,Qt CNTR,Qtd CNTR,Qtd CNTR
+Caption.nbTeus,TEUS,TEUS,TEUS
+Caption.nmCnee,CNEE,CNEE,CNEE
+Caption.nmPortOrig,POL,POL,POL
+Caption.salesman2VlPercentage,% Comm 2,% Com 2,% Com 2
+Caption.vlTotalQuotation,Vl Quotation,Vl Cotação,Vl Cotización
+ContactForm.label.nmContact,Nome,Name,Nombre
+DocumentTypes.RG,RG,RG,RG
+DraftForm.volumeHeader.vlCubic,M3,M3,M3
+eBuilder.dsCntrCodes,CNTR # ,Nº CNTR,Nº CNTR
+eBuilder.dtAtd,ATD,ATD,ATD
+eBuilder.eta1,1T ETA,1T ETA,1T ETA
+eBuilder.eta2,2T ETA,2T ETA,2T ETA
+eBuilder.local1,1T Port,1T Porto,"1T Port (No puedo traducirlo ya que ""1T Port"" no tiene un significado claro en el contexto de comex para el envío de mercancías)"
+email.followup.lbCnee,Cnee,Cnee,Cnee
+email.followup.lbDest,Destin,Destino,Destino
+FileType.DIGITALHOUSEBL,Digital H/BL,Digital H/BL,Digital H/BL
+FileType.HOUSEBL,H/BL,H/BL,H/BL
+FileType.HOUSEBL_ORIGINAL,H/BL Original,H/BL Original,H/BL Original
+InvoiceChargeGridForm.label.vlTotalExcOffice,vlTotalExcOffice,vlTotalExcOffice,vlTotalExcOffice
+InvoiceTypes.CASS,CASS,CASS,CASS
+Label.cnee,Cnee,Cnee,Cnee
+Label.dtAtd,ATD,ATD,ATD
+Label.DIR,DIR,DIR,DIR
+Label.PPCC,PP / CC,PP / CC,PP / CC
+Label.ro,RO,RO,RO
+Label.rpsNumber,#RPS,#RPS,#RPS
+Label.vlKg,Vl/Kg,Vl/Kg,Vl/Kg
+metricUnitTypes.CM,Cm,Cm,Cm
+notification.CertExpiredNfe.Title,{{NmNotification}},{{NmNotification}},{{NmNotification}}
+notification.Deadline.Title,{{NmNotification}},{{NmNotification}},{{NmNotification}}
+notification.ExpiredQuot.Title,{{NmNotification}},{{NmNotification}},{{NmNotification}}
+notification.Generic.Title,{{NmNotification}},{{NmNotification}},{{NmNotification}}
+Placeholder.EgParam,Eg: {0},Ex: {0},Ej: {0}
+ProcessReportPdfOptions.select.3,3,3,3
+rBuilder.i18nLbATA,ATA:,ATA:,ATA:
+rBuilder.i18nLbATD,ATD:,ATD:,ATD:
+rBuilder.i18nLbCnee,Cnee,Cnee,Cnee
+rBuilder.i18nLbCntr,Cntr,Cntr,Cntr
+rBuilder.i18nLbContactCustomer,Contato:,Contact:,Contacto:
+rBuilder.i18nLbDeadLineVGM,VGM:,VGM:,VGM:
+rBuilder.i18nLbFlight,Voo:,Voo:,Vuelo:
+rBuilder.i18nLbFreeTime,FT,FT,FT
+rBuilder.i18nLbFtDemurrage,F.T Equip Dest:,F.T Equip Dest:,Español: F.T Equip Dest:
+rBuilder.i18nLbFtDetention,F.T Equip Orig:,F.T Equip Orig:,F.T Equip Orig:
+rBuilder.i18nLbHBL,HBL:,HBL:,HBL:
+rBuilder.i18nLbHBLWithout,HBL,HBL,HBL
+rBuilder.i18nLblCreditDebit,C/D,C/D,C/D
+rBuilder.i18nLbMajor1000,+1000,+1000,+1000
+rBuilder.i18nLbMajor500,+500,+500,+500
+rBuilder.i18nLbMBL,MBL:,MBL:,MBL:
+rBuilder.i18nLbNbFreeTime,FT,FT,FT
+rBuilder.i18nLbNbFTD,FT D,FT D,FT D
+rBuilder.i18nLbNbFTO,FT O,FT O,FT O
+rBuilder.i18nLbNF,NF,NF,NF
+rBuilder.i18nLbPPCC,PP/CC,PP/CC,PP/CC
+rBuilder.i18nLbQuantityTon,Qtd TON,Qtd TON,Qtd TON
+Shortcut.Accesskey.Yes,Y,S,S
+weightUnitTypes.TON,Ton,Ton,Tonelada
